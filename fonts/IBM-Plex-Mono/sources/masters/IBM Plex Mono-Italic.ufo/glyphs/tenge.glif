@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="600"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="614" y="630" type="line" identifier="08PVdGqC2r"/>
+      <point x="625" y="698" type="line" identifier="YM3P5WJurH"/>
+      <point x="123" y="698" type="line" identifier="xebW3UyAOU"/>
+      <point x="112" y="630" type="line" identifier="XP90MRWhbw"/>
+    </contour>
+    <contour>
+      <point x="587" y="472" type="line" identifier="fKnOGrg3PI"/>
+      <point x="598" y="540" type="line" identifier="FWLShAVWZ3"/>
+      <point x="97" y="540" type="line" identifier="KrM313heXQ"/>
+      <point x="86" y="472" type="line" identifier="uUJbDkyVZV"/>
+      <point x="295" y="472" type="line" identifier="juZvkHCRfR"/>
+      <point x="216" y="0" type="line" identifier="FX3OOYbzG6"/>
+      <point x="298" y="0" type="line" identifier="qmIcuabCPQ"/>
+      <point x="377" y="472" type="line" identifier="m7yy1triDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

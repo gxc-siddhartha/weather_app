@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightleftbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2574"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line" identifier="sDv5axITv7"/>
+      <point x="334" y="266" type="line" identifier="TFIR09M9w9"/>
+      <point x="334" y="334" type="line" identifier="vZQSKN9Ssm"/>
+      <point x="-34" y="334" type="line" identifier="0k0zQ2oLxb"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="600"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="181" y="419" type="line" identifier="UNsqKjSmk6"/>
+      <point x="220" y="652" type="line" identifier="uNu9R2T7l9"/>
+      <point x="307" y="652" type="line" identifier="VIKyzEMTu5"/>
+      <point x="315" y="698" type="line" identifier="NVEIsRrg4M"/>
+      <point x="89" y="698" type="line" identifier="WOxAJnSHVH"/>
+      <point x="81" y="652" type="line" identifier="H311b2P6jJ"/>
+      <point x="168" y="652" type="line" identifier="8S5UXqgPVd"/>
+      <point x="129" y="419" type="line" identifier="PFvBuuJaYj"/>
+    </contour>
+    <contour>
+      <point x="357" y="419" type="line" identifier="oFSCuCbK4g"/>
+      <point x="378" y="546" type="line" identifier="3wAVD2ROuZ"/>
+      <point x="391" y="629" type="line" identifier="i9se5LsO6B"/>
+      <point x="395" y="629" type="line" identifier="YvkumnILyz"/>
+      <point x="447" y="473" type="line" identifier="YtN0ZY18h5"/>
+      <point x="551" y="629" type="line" identifier="yxeuHZqWbM"/>
+      <point x="555" y="629" type="line" identifier="9XM5gkTWb3"/>
+      <point x="541" y="546" type="line" identifier="DoT0q2wpzW"/>
+      <point x="520" y="419" type="line" identifier="V23psEmyRZ"/>
+      <point x="567" y="419" type="line" identifier="9eC3ip4Emb"/>
+      <point x="613" y="698" type="line" identifier="jSfv0TFXHM"/>
+      <point x="550" y="698" type="line" identifier="AhCF5NGawI"/>
+      <point x="463" y="564" type="line" identifier="F6yoP45LVE"/>
+      <point x="460" y="564" type="line" identifier="cQNmE5afyb"/>
+      <point x="418" y="698" type="line" identifier="b9ICtMmAGc"/>
+      <point x="356" y="698" type="line" identifier="ZqvkAt4jcW"/>
+      <point x="310" y="419" type="line" identifier="0GFCtokBOF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

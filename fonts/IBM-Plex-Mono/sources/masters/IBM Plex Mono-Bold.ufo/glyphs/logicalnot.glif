@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="600"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="522" y="54" type="line" identifier="LAcI0J5EfE"/>
+      <point x="522" y="364" type="line" identifier="LbXGerhprS"/>
+      <point x="62" y="364" type="line" identifier="cXmaZqZ64t"/>
+      <point x="62" y="246" type="line" identifier="y7tVd94J5I"/>
+      <point x="401" y="246" type="line" identifier="fFo8nI9ifb"/>
+      <point x="401" y="54" type="line" identifier="FtwIycxdjT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

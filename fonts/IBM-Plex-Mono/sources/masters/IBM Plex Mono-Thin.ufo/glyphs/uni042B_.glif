@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni042B" format="2">
+  <advance width="600"/>
+  <unicode hex="042B"/>
+  <anchor x="300.0" y="698.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line" identifier="wRTqJ7pszD"/>
+      <point x="221" y="0" type="line" smooth="yes" identifier="1sGU5EEAX8"/>
+      <point x="335" y="0" identifier="ksqNCTB15F"/>
+      <point x="395" y="74" identifier="45WjmEhC9B"/>
+      <point x="395" y="188" type="curve" smooth="yes" identifier="PRTJAJOkJx"/>
+      <point x="395" y="302" identifier="i0JKaZMMj7"/>
+      <point x="335" y="376" identifier="Ff3634bRod"/>
+      <point x="221" y="376" type="curve" smooth="yes" identifier="jxCb3LG24L"/>
+      <point x="87" y="376" type="line" identifier="nVn7CPCYGa"/>
+      <point x="87" y="698" type="line" identifier="jk7DjTXtBA"/>
+      <point x="65" y="698" type="line" identifier="qbqQBrdEDA"/>
+    </contour>
+    <contour>
+      <point x="87" y="20" type="line" identifier="GvHOkfudhX"/>
+      <point x="87" y="356" type="line" identifier="9EOTsezIbO"/>
+      <point x="221" y="356" type="line" smooth="yes" identifier="XqrO9hlcuz"/>
+      <point x="324" y="356" identifier="cAB3TlkvwC"/>
+      <point x="371" y="285" identifier="VY3L4JlXcN"/>
+      <point x="371" y="209" type="curve" smooth="yes" identifier="EQG6jfFJRO"/>
+      <point x="371" y="167" type="line" smooth="yes" identifier="b17RvAkto4"/>
+      <point x="371" y="91" identifier="azpkRIRkcm"/>
+      <point x="324" y="20" identifier="1ri7skciKX"/>
+      <point x="221" y="20" type="curve" smooth="yes" identifier="nx8uwQbI88"/>
+    </contour>
+    <contour>
+      <point x="513" y="0" type="line" identifier="M1llGJwK18"/>
+      <point x="535" y="0" type="line" identifier="xoxVIqI6Nw"/>
+      <point x="535" y="698" type="line" identifier="jmfDDdio7Y"/>
+      <point x="513" y="698" type="line" identifier="1E9njjuzE4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

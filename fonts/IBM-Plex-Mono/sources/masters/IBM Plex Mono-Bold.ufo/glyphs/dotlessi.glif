@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="600"/>
+  <unicode hex="0131"/>
+  <anchor x="332.0" y="0.0" name="bottom"/>
+  <anchor x="558.0" y="0.0" name="bottomright"/>
+  <anchor x="332.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line" identifier="8nypFXPD1f"/>
+      <point x="558" y="0" type="line" identifier="9ziTLiOouk"/>
+      <point x="558" y="115" type="line" identifier="0P6CpnhcvK"/>
+      <point x="406" y="115" type="line" identifier="iMs43bQnOD"/>
+      <point x="406" y="516" type="line" identifier="L61ICO1R8z"/>
+      <point x="94" y="516" type="line" identifier="VCedYAmz0T"/>
+      <point x="94" y="401" type="line" identifier="ZV2GuTOjw5"/>
+      <point x="258" y="401" type="line" identifier="IA2qIt9JRR"/>
+      <point x="258" y="115" type="line" identifier="p2VOrUr5dE"/>
+      <point x="94" y="115" type="line" identifier="FR1ctkU0tZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni044B" format="2">
+  <advance width="600"/>
+  <unicode hex="044B"/>
+  <anchor x="300.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line" identifier="gOZajn9fvf"/>
+      <point x="208" y="0" type="line" smooth="yes" identifier="cE4NgNllrM"/>
+      <point x="314" y="0" identifier="kNfB2FR8Qk"/>
+      <point x="393" y="65" identifier="dkYcoxfMxK"/>
+      <point x="393" y="185" type="curve" smooth="yes" identifier="4Ubeq0oVbc"/>
+      <point x="393" y="304" identifier="gveB4NwLcz"/>
+      <point x="314" y="369" identifier="HS1IcIIGrx"/>
+      <point x="212" y="369" type="curve" smooth="yes" identifier="4Qm2tAlBes"/>
+      <point x="154" y="369" type="line" identifier="5t3CWrV8BT"/>
+      <point x="154" y="516" type="line" identifier="4CloA60gbC"/>
+      <point x="30" y="516" type="line" identifier="zrv1JIta46"/>
+    </contour>
+    <contour>
+      <point x="154" y="101" type="line" identifier="Q69D6W9Edn"/>
+      <point x="154" y="268" type="line" identifier="rCa2w91B2z"/>
+      <point x="207" y="268" type="line" smooth="yes" identifier="IPm8tFyNKN"/>
+      <point x="245" y="268" identifier="ZGHr8FwyPP"/>
+      <point x="268" y="246" identifier="YnHAABICR4"/>
+      <point x="268" y="197" type="curve" smooth="yes" identifier="PCXc41rD3J"/>
+      <point x="268" y="172" type="line" smooth="yes" identifier="VLCugX5wGg"/>
+      <point x="268" y="123" identifier="hQEW5Aj4V9"/>
+      <point x="245" y="101" identifier="XILWlYDBru"/>
+      <point x="207" y="101" type="curve" smooth="yes" identifier="87RcmKx6rC"/>
+    </contour>
+    <contour>
+      <point x="445" y="0" type="line" identifier="46pvAcgwH6"/>
+      <point x="569" y="0" type="line" identifier="5n3ypoPZVu"/>
+      <point x="569" y="516" type="line" identifier="IEM8bbg1RW"/>
+      <point x="445" y="516" type="line" identifier="iQhfR4szqn"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

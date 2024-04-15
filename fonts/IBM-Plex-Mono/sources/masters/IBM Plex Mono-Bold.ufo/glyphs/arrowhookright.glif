@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowhookright" format="2">
+  <advance width="600"/>
+  <unicode hex="21AA"/>
+  <outline>
+    <contour>
+      <point x="600" y="298" type="line" identifier="VGFFK8elZO"/>
+      <point x="361" y="537" type="line" identifier="jadV9opoG2"/>
+      <point x="281" y="457" type="line" identifier="baaFUsD9xc"/>
+      <point x="341" y="397" type="line" identifier="xvGoyFalxh"/>
+      <point x="385" y="359" type="line" identifier="VuzZYk4nfR"/>
+      <point x="384" y="355" type="line" identifier="4hGg0mdhOG"/>
+      <point x="304" y="359" type="line" identifier="yhp58EALEc"/>
+      <point x="232" y="359" type="line" smooth="yes" identifier="tqY1PQ57Rl"/>
+      <point x="183" y="359" identifier="4FFYqrAsUR"/>
+      <point x="139" y="383" identifier="CyPjGDiTXm"/>
+      <point x="139" y="442" type="curve" smooth="yes" identifier="uLXo1Wln1r"/>
+      <point x="139" y="501" identifier="G6IjD3L7QP"/>
+      <point x="183" y="525" identifier="09tnfVhSmp"/>
+      <point x="232" y="525" type="curve" identifier="LMAEEWQZ1a"/>
+      <point x="232" y="639" type="line" identifier="qNJUS9DCS5"/>
+      <point x="108" y="639" identifier="Wwux6pBt8R"/>
+      <point x="0" y="571" identifier="sxltSzccWw"/>
+      <point x="0" y="438" type="curve" smooth="yes" identifier="ma5RlZAOrf"/>
+      <point x="0" y="305" identifier="Dm0CjzUXnF"/>
+      <point x="108" y="237" identifier="cpY9bO6tbp"/>
+      <point x="232" y="237" type="curve" smooth="yes" identifier="cvhDGGWj9K"/>
+      <point x="304" y="237" type="line" identifier="hl8kQkBF9o"/>
+      <point x="384" y="241" type="line" identifier="WoSf5CtMoX"/>
+      <point x="385" y="237" type="line" identifier="W1YwMEjGfw"/>
+      <point x="341" y="199" type="line" identifier="6ru60Sjcor"/>
+      <point x="281" y="139" type="line" identifier="9pR4PVWQMW"/>
+      <point x="361" y="59" type="line" identifier="kZsSb1tGl3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

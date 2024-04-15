@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="600"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line" identifier="kueIVtoXUp"/>
+      <point x="156" y="154" type="line" identifier="2sSqcDEBNP"/>
+      <point x="331" y="154" type="line" smooth="yes" identifier="Fn8mWxSAi9"/>
+      <point x="477" y="154" identifier="UEkpA7lxss"/>
+      <point x="560" y="243" identifier="3ztef7M1lJ"/>
+      <point x="560" y="391" type="curve" smooth="yes" identifier="Ckz8QYMiXd"/>
+      <point x="560" y="488" identifier="OCSqGo6FQc"/>
+      <point x="506" y="555" identifier="0SbF4CVElV"/>
+      <point x="389" y="555" type="curve" smooth="yes" identifier="CcCqU9TIZJ"/>
+      <point x="223" y="555" type="line" identifier="I9fwBXW3T8"/>
+      <point x="247" y="698" type="line" identifier="QZmZoLbghF"/>
+      <point x="165" y="698" type="line" identifier="UilKmgGmfW"/>
+      <point x="48" y="0" type="line" identifier="kVcNxqEid4"/>
+    </contour>
+    <contour>
+      <point x="211" y="483" type="line" identifier="kam60w0SxO"/>
+      <point x="379" y="483" type="line" smooth="yes" identifier="8CAYonCzBw"/>
+      <point x="440" y="483" identifier="2e0jyffoYd"/>
+      <point x="476" y="455" identifier="NvHVKcu8MX"/>
+      <point x="476" y="400" type="curve" smooth="yes" identifier="1oo97NUbaw"/>
+      <point x="476" y="387" identifier="RhZ0ojRstC"/>
+      <point x="475" y="373" identifier="HsbX0urumB"/>
+      <point x="473" y="361" type="curve" smooth="yes" identifier="Wk0Hb9jvhO"/>
+      <point x="467" y="325" type="line" smooth="yes" identifier="Y7LMSRbkZy"/>
+      <point x="457" y="265" identifier="lRIDlmiF4i"/>
+      <point x="414" y="226" identifier="nxZguj9d6I"/>
+      <point x="339" y="226" type="curve" smooth="yes" identifier="VffsrX84Gk"/>
+      <point x="168" y="226" type="line" identifier="xWDtE5SLgL"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

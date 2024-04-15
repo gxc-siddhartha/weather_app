@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftlightrightupheavybxd" format="2">
+  <advance width="600"/>
+  <unicode hex="253A"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line" identifier="OQSjgNmlMq"/>
+      <point x="232" y="266" type="line" identifier="e3z3j3g3jx"/>
+      <point x="232" y="232" type="line" identifier="cfK9bjTj7k"/>
+      <point x="634" y="232" type="line" identifier="vnhQKyknX8"/>
+      <point x="634" y="368" type="line" identifier="8SoPhUZHAg"/>
+      <point x="368" y="368" type="line" identifier="0RYoB9YMbg"/>
+      <point x="368" y="950" type="line" identifier="KcRWZKaWeW"/>
+      <point x="232" y="950" type="line" identifier="5EWbCyhbvH"/>
+      <point x="232" y="334" type="line" identifier="LdSRzso21M"/>
+      <point x="-34" y="334" type="line" identifier="baQfHwA2Xl"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

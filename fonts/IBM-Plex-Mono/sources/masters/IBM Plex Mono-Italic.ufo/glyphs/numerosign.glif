@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numerosign" format="2">
+  <advance width="600"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="498" y="344" type="curve" smooth="yes" identifier="XwymMKgAPV"/>
+      <point x="573" y="344" identifier="VIvXt10FKw"/>
+      <point x="613" y="404" identifier="KODsT4uJsC"/>
+      <point x="630" y="522" type="curve" smooth="yes" identifier="JQbWAlORTB"/>
+      <point x="634" y="550" identifier="BIZwKt2Vws"/>
+      <point x="637" y="573" identifier="z6hAgrNnZS"/>
+      <point x="637" y="594" type="curve" smooth="yes" identifier="sypkmwVXij"/>
+      <point x="637" y="669" identifier="FztgwBIlFx"/>
+      <point x="610" y="706" identifier="TuNsQ2xBqm"/>
+      <point x="550" y="706" type="curve" smooth="yes" identifier="UfIGlEtZQ6"/>
+      <point x="475" y="706" identifier="wHYm5HEpCG"/>
+      <point x="435" y="646" identifier="YmlCBrf9sV"/>
+      <point x="418" y="528" type="curve" smooth="yes" identifier="COdUbpiuVP"/>
+      <point x="414" y="500" identifier="CpkW2e6Fhj"/>
+      <point x="411" y="477" identifier="hQun8IRdvv"/>
+      <point x="411" y="456" type="curve" smooth="yes" identifier="89k1U2fxyS"/>
+      <point x="411" y="381" identifier="w7TzN473sk"/>
+      <point x="438" y="344" identifier="jkaXHxpSNd"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line" identifier="9lN5aTxRk8"/>
+      <point x="172" y="610" type="line" identifier="psTnU91PiS"/>
+      <point x="178" y="610" type="line" identifier="JK0RXzQA8r"/>
+      <point x="173" y="349" type="line" identifier="rShncnWxfA"/>
+      <point x="169" y="0" type="line" identifier="6J0tHFUGar"/>
+      <point x="290" y="0" type="line" identifier="x28zxuCUcn"/>
+      <point x="407" y="698" type="line" identifier="RXUIPMTHXj"/>
+      <point x="340" y="698" type="line" identifier="ayIfq3WiQ4"/>
+      <point x="238" y="88" type="line" identifier="rRxllBVgK0"/>
+      <point x="232" y="88" type="line" identifier="BXyt0GL7vL"/>
+      <point x="237" y="349" type="line" identifier="kUmpGpN0Iu"/>
+      <point x="241" y="698" type="line" identifier="pjbdT1kh0o"/>
+      <point x="120" y="698" type="line" identifier="f7uBCBNO9a"/>
+      <point x="3" y="0" type="line" identifier="iyhRAdBGvZ"/>
+    </contour>
+    <contour>
+      <point x="503" y="395" type="curve" smooth="yes" identifier="aIuJORplYD"/>
+      <point x="477" y="395" identifier="OoTsBNfji8"/>
+      <point x="467" y="414" identifier="20tEcpfDkq"/>
+      <point x="467" y="442" type="curve" smooth="yes" identifier="h5b4pwpWkS"/>
+      <point x="467" y="454" identifier="buWEB0YNIm"/>
+      <point x="470" y="472" identifier="fWNPRLxdPe"/>
+      <point x="472" y="484" type="curve" smooth="yes" identifier="dwh80ITZNn"/>
+      <point x="485" y="564" type="line" smooth="yes" identifier="hUHOvZDcSP"/>
+      <point x="494" y="618" identifier="oeXeD0KGy2"/>
+      <point x="507" y="655" identifier="q8fyUKPWUm"/>
+      <point x="545" y="655" type="curve" smooth="yes" identifier="8vusXaOoEh"/>
+      <point x="571" y="655" identifier="MZ9iYMq4f9"/>
+      <point x="581" y="636" identifier="AI0xg5DhGZ"/>
+      <point x="581" y="608" type="curve" smooth="yes" identifier="nkn7xLWaOu"/>
+      <point x="581" y="596" identifier="6AJQyzqB7Y"/>
+      <point x="578" y="578" identifier="oJgI4EV7vV"/>
+      <point x="576" y="566" type="curve" smooth="yes" identifier="uRYkcjgLFL"/>
+      <point x="563" y="486" type="line" smooth="yes" identifier="iiCT1Omyyd"/>
+      <point x="554" y="432" identifier="3If3mBEcPn"/>
+      <point x="541" y="395" identifier="jAosZVrGoO"/>
+    </contour>
+    <contour>
+      <point x="583" y="257" type="line" identifier="B5r31S9GyB"/>
+      <point x="592" y="312" type="line" identifier="7V15hrUGzu"/>
+      <point x="386" y="312" type="line" identifier="JvFqOqZXHh"/>
+      <point x="377" y="257" type="line" identifier="DTQrEi2fbZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

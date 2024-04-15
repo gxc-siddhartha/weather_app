@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="600"/>
+  <unicode hex="20BF"/>
+  <outline>
+    <contour>
+      <point x="257" y="-113" type="line" identifier="AebV8i3SD1"/>
+      <point x="277" y="-113" type="line" identifier="aexW451UuA"/>
+      <point x="296" y="0" type="line" identifier="U0YbkN5gF8"/>
+      <point x="438" y="0" identifier="j9vdwXow2r"/>
+      <point x="509" y="75" identifier="kgztdAGylN"/>
+      <point x="509" y="216" type="curve" smooth="yes" identifier="9wbKlyOauO"/>
+      <point x="509" y="286" identifier="8LyxOJ709S"/>
+      <point x="475" y="340" identifier="7iv3NsBoGn"/>
+      <point x="407" y="354" type="curve" identifier="iU9rLYiy7K"/>
+      <point x="407" y="357" type="line" identifier="6zmdEWBKiq"/>
+      <point x="496" y="380" identifier="18qKXtJEID"/>
+      <point x="533" y="458" identifier="zJRWHOPsLd"/>
+      <point x="533" y="549" type="curve" smooth="yes" identifier="xl3DI4R4T3"/>
+      <point x="533" y="635" identifier="mUXjzSIs02"/>
+      <point x="490" y="685" identifier="vZe2R8rANf"/>
+      <point x="412" y="696" type="curve" identifier="vu7sQhUjWf"/>
+      <point x="431" y="811" type="line" identifier="duVRxdgXwb"/>
+      <point x="411" y="811" type="line" identifier="5xbVAeePaS"/>
+      <point x="392" y="698" type="line" identifier="NVQ2Swk5cC"/>
+      <point x="295" y="698" type="line" identifier="puLscg7t2Y"/>
+      <point x="314" y="811" type="line" identifier="Walii4OP2w"/>
+      <point x="294" y="811" type="line" identifier="tMgBhVW5vV"/>
+      <point x="275" y="698" type="line" identifier="yJxLV6CyPC"/>
+      <point x="175" y="698" type="line" identifier="88teKLwAmO"/>
+      <point x="59" y="0" type="line" identifier="T46XNeusKM"/>
+      <point x="159" y="0" type="line" identifier="4EYDL8q4lL"/>
+      <point x="140" y="-113" type="line" identifier="6bQy6SznLg"/>
+      <point x="160" y="-113" type="line" identifier="Xct9Qf4DuW"/>
+      <point x="179" y="0" type="line" identifier="KzbRh5avD5"/>
+      <point x="276" y="0" type="line" identifier="qJrnYdLFtA"/>
+    </contour>
+    <contour>
+      <point x="194" y="678" type="line" identifier="merY7iuvsM"/>
+      <point x="379" y="678" type="line" smooth="yes" identifier="rQfcbA8acg"/>
+      <point x="473" y="678" identifier="bctOy1ArXf"/>
+      <point x="511" y="626" identifier="lg6f6vM1Pn"/>
+      <point x="511" y="555" type="curve" smooth="yes" identifier="tf1hGdV24a"/>
+      <point x="511" y="546" identifier="2Zr7RTGcdM"/>
+      <point x="511" y="541" identifier="kPFPePtDYO"/>
+      <point x="509" y="527" type="curve" smooth="yes" identifier="ukbpMzhly1"/>
+      <point x="504" y="495" type="line" smooth="yes" identifier="opeJEFFkFX"/>
+      <point x="493" y="422" identifier="fgaqDq6QSt"/>
+      <point x="439" y="364" identifier="qAlPzykKCD"/>
+      <point x="345" y="364" type="curve" smooth="yes" identifier="lE3Kco8Tk5"/>
+      <point x="142" y="364" type="line" identifier="uF5dalcEPX"/>
+    </contour>
+    <contour>
+      <point x="138" y="344" type="line" identifier="XfaUzOR93s"/>
+      <point x="357" y="344" type="line" smooth="yes" identifier="sqWn5ub7Bn"/>
+      <point x="448" y="344" identifier="58OZx9eLGN"/>
+      <point x="487" y="286" identifier="UNTSTc1N14"/>
+      <point x="487" y="216" type="curve" smooth="yes" identifier="NCdEVowZqg"/>
+      <point x="487" y="206" identifier="ntqB0mOiBE"/>
+      <point x="487" y="198" identifier="AaVvxcbdcz"/>
+      <point x="485" y="186" type="curve" smooth="yes" identifier="UOxYuKZqWj"/>
+      <point x="479" y="149" type="line" smooth="yes" identifier="M8LEaRVGJm"/>
+      <point x="467" y="75" identifier="KnbmrRFxLN"/>
+      <point x="408" y="20" identifier="DKvxSmQWye"/>
+      <point x="306" y="20" type="curve" smooth="yes" identifier="YDwG1C6Whl"/>
+      <point x="84" y="20" type="line" identifier="F2MZNoRhX1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

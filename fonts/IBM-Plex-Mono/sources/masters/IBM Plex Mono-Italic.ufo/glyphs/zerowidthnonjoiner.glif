@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zerowidthnonjoiner" format="2">
+  <unicode hex="200C"/>
+  <outline>
+    <contour>
+      <point x="-9" y="-220" type="line" identifier="ipysRS7EjD"/>
+      <point x="9" y="-220" type="line" identifier="kYeC0cOzhS"/>
+      <point x="9" y="780" type="line" identifier="U435Q8LC6u"/>
+      <point x="-9" y="780" type="line" identifier="irW6Y5TeaP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

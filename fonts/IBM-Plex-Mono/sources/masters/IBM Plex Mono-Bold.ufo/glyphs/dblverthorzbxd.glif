@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblverthorzbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="256C"/>
+  <outline>
+    <contour>
+      <point x="-34" y="334" type="line" identifier="MJSGvLTyQi"/>
+      <point x="266" y="334" type="line" identifier="Wyq33ADWuK"/>
+      <point x="266" y="950" type="line" identifier="AFUDgK7ZZW"/>
+      <point x="198" y="950" type="line" identifier="kKwG9BGIXY"/>
+      <point x="198" y="402" type="line" identifier="iCddKFSQDj"/>
+      <point x="-34" y="402" type="line" identifier="0WyUXhURuj"/>
+    </contour>
+    <contour>
+      <point x="334" y="334" type="line" identifier="iiFDjUK0Y4"/>
+      <point x="634" y="334" type="line" identifier="AUd0XIX6vb"/>
+      <point x="634" y="402" type="line" identifier="yi4s4m7QP3"/>
+      <point x="402" y="402" type="line" identifier="sh9TOHAq3r"/>
+      <point x="402" y="950" type="line" identifier="taJXvlsFkT"/>
+      <point x="334" y="950" type="line" identifier="kx3i27VssM"/>
+    </contour>
+    <contour>
+      <point x="-34" y="198" type="line" identifier="89IZOlTtoj"/>
+      <point x="198" y="198" type="line" identifier="Ok2p16kuZ6"/>
+      <point x="198" y="-350" type="line" identifier="rjb6YQMNJI"/>
+      <point x="266" y="-350" type="line" identifier="rRsiohK7A1"/>
+      <point x="266" y="266" type="line" identifier="0TudZV1U5Z"/>
+      <point x="-34" y="266" type="line" identifier="4cCrT9Cnta"/>
+    </contour>
+    <contour>
+      <point x="334" y="-350" type="line" identifier="5cfTnApJcb"/>
+      <point x="402" y="-350" type="line" identifier="SQnVyPDCku"/>
+      <point x="402" y="198" type="line" identifier="rSO4zrx1UD"/>
+      <point x="634" y="198" type="line" identifier="u22JfJdTI8"/>
+      <point x="634" y="266" type="line" identifier="FaRnANYZdx"/>
+      <point x="334" y="266" type="line" identifier="NX10xNac6H"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

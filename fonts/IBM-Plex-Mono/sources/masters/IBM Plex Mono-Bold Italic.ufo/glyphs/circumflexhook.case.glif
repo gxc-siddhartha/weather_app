@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexhook.case" format="2">
+  <anchor x="0.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="89" y="1012" type="line" identifier="tUP1NVxT6A"/>
+      <point x="201" y="1012" type="line" identifier="T2d4amP0ev"/>
+      <point x="149" y="916" type="line" identifier="5LbHmww2PY"/>
+      <point x="220" y="882" type="line" identifier="tHFnnaI3fc"/>
+      <point x="274" y="948" type="line" smooth="yes" identifier="QqbVM6nPTX"/>
+      <point x="302" y="983" identifier="4OoTlSMB5X"/>
+      <point x="323" y="1013" identifier="ZG6m9IzdRm"/>
+      <point x="323" y="1054" type="curve" smooth="yes" identifier="iQHwsY4gBn"/>
+      <point x="323" y="1087" identifier="cQx93rQcLY"/>
+      <point x="297" y="1113" identifier="FE4uGa7jA8"/>
+      <point x="242" y="1113" type="curve" smooth="yes" identifier="oMQFbRGR15"/>
+      <point x="105" y="1113" type="line" identifier="y7om5BRGQV"/>
+    </contour>
+    <contour>
+      <point x="-9" y="941" type="line" identifier="1u2emcsJzJ"/>
+      <point x="-176" y="795" type="line" identifier="G8Xk1nK8wB"/>
+      <point x="-113" y="732" type="line" identifier="QLTXKYGA6P"/>
+      <point x="23" y="836" type="line" identifier="G2D5QCyPi4"/>
+      <point x="132" y="732" type="line" identifier="2O5Jm2xj9T"/>
+      <point x="206" y="795" type="line" identifier="fqQHJ9dPEb"/>
+      <point x="85" y="941" type="line" identifier="bYqMlHHNXf"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

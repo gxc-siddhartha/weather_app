@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="600"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="600" y="267" type="line" identifier="Tk8ZFfuE8q"/>
+      <point x="600" y="341" type="line" identifier="SCkPYHyW4M"/>
+      <point x="0" y="341" type="line" identifier="tLaEGNO05g"/>
+      <point x="0" y="267" type="line" identifier="JeA0ILjb7A"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

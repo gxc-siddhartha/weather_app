@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="600"/>
+  <unicode hex="02DA"/>
+  <anchor x="300.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="300" y="549" type="curve" smooth="yes" identifier="Qz3aUcdugT"/>
+      <point x="383" y="549" identifier="zNPYyf7kON"/>
+      <point x="448" y="610" identifier="GmmLCPV6Un"/>
+      <point x="448" y="692" type="curve" smooth="yes" identifier="peiBdyp5Qz"/>
+      <point x="448" y="775" identifier="uefHWiPlp1"/>
+      <point x="383" y="835" identifier="ZyolTL9ZAT"/>
+      <point x="300" y="835" type="curve" smooth="yes" identifier="0ZeLQqBKlG"/>
+      <point x="217" y="835" identifier="PyCk3rUiJt"/>
+      <point x="152" y="774" identifier="oxZWuLl02M"/>
+      <point x="152" y="692" type="curve" smooth="yes" identifier="5BmvHIu8n2"/>
+      <point x="152" y="609" identifier="milWnoDRbn"/>
+      <point x="217" y="549" identifier="DfMIvZhEzP"/>
+    </contour>
+    <contour>
+      <point x="300" y="624" type="curve" smooth="yes" identifier="MnNUimSp4M"/>
+      <point x="267" y="624" identifier="qR78HWOeSP"/>
+      <point x="249" y="643" identifier="B2dq2EUTbt"/>
+      <point x="249" y="675" type="curve" smooth="yes" identifier="1JtmwFNLGy"/>
+      <point x="249" y="709" type="line" smooth="yes" identifier="ZNoM8frUD8"/>
+      <point x="249" y="740" identifier="78gXCl9aX0"/>
+      <point x="267" y="760" identifier="IL6RjpMdNE"/>
+      <point x="300" y="760" type="curve" smooth="yes" identifier="ppqq1FSWh3"/>
+      <point x="333" y="760" identifier="gMzVawfTEn"/>
+      <point x="351" y="741" identifier="D75qP2bI76"/>
+      <point x="351" y="709" type="curve" smooth="yes" identifier="CGElFULYOU"/>
+      <point x="351" y="675" type="line" smooth="yes" identifier="T90YxrdZXt"/>
+      <point x="351" y="644" identifier="TVsgGEjPnJ"/>
+      <point x="333" y="624" identifier="KODFwL6XO5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

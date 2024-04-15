@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="141" y="631" type="line" identifier="sRWePTy592"/>
+      <point x="18" y="631" type="line" identifier="yYChee3gS3"/>
+      <point x="-2" y="516" type="line" identifier="nNjuoxZ6DU"/>
+      <point x="-126" y="516" type="line" identifier="f9emkLxAcB"/>
+      <point x="-141" y="429" type="line" identifier="9R23s5e80W"/>
+      <point x="11" y="429" type="line" smooth="yes" identifier="ysf154daM4"/>
+      <point x="88" y="429" identifier="yICc1BXDOa"/>
+      <point x="113" y="463" identifier="TyxtcSHhWa"/>
+      <point x="124" y="528" type="curve" smooth="yes" identifier="KLYu3RF86a"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

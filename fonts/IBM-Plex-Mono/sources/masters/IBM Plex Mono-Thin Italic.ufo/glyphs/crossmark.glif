@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossmark" format="2">
+  <advance width="600"/>
+  <unicode hex="274C"/>
+  <outline>
+    <contour>
+      <point x="80" y="19" type="line" identifier="qeczPhqyTC"/>
+      <point x="300" y="331" type="line" identifier="Dj1fLbhdnO"/>
+      <point x="520" y="19" type="line" identifier="clTJFoWZb5"/>
+      <point x="538" y="31" type="line" identifier="JpZdC71Kud"/>
+      <point x="314" y="348" type="line" identifier="LEr2Mft7qY"/>
+      <point x="538" y="667" type="line" identifier="SMWUWLza8g"/>
+      <point x="520" y="679" type="line" identifier="iLh1Hsb293"/>
+      <point x="300" y="367" type="line" identifier="ybDhJnqUFF"/>
+      <point x="80" y="679" type="line" identifier="beQI1aua66"/>
+      <point x="62" y="667" type="line" identifier="4J2WYK3tkk"/>
+      <point x="286" y="350" type="line" identifier="KHSwXm7WKu"/>
+      <point x="62" y="31" type="line" identifier="Ppp8IhE49s"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

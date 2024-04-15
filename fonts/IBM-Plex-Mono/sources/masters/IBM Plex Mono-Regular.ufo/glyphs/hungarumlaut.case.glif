@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="333" y="915" type="line" identifier="NIW1JorZ8O"/>
+      <point x="264" y="948" type="line" identifier="etQIYclb7r"/>
+      <point x="179" y="778" type="line" identifier="bdnyn9JQCB"/>
+      <point x="227" y="756" type="line" identifier="LwQFbQ3iL0"/>
+    </contour>
+    <contour>
+      <point x="493" y="915" type="line" identifier="MXan0Km2wI"/>
+      <point x="424" y="948" type="line" identifier="4aBP5IYXSG"/>
+      <point x="339" y="778" type="line" identifier="Paxhe05ihq"/>
+      <point x="387" y="756" type="line" identifier="Q2lmlrH35a"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

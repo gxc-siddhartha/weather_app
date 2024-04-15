@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="600"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="282" y="490" type="line" identifier="zqVP97f5Y3"/>
+      <point x="324" y="490" type="line" identifier="dtAkx0VzZj"/>
+      <point x="419" y="740" type="line" identifier="X3BV8pu7XV"/>
+      <point x="401" y="740" type="line" identifier="btZDoUJYlt"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

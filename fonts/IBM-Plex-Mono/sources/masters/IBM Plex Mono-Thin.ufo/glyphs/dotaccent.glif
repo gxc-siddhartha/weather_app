@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="600"/>
+  <unicode hex="02D9"/>
+  <anchor x="300.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="300" y="649" type="curve" smooth="yes" identifier="9ItiuOBrDw"/>
+      <point x="321" y="649" identifier="BsszeECIjR"/>
+      <point x="329" y="659" identifier="mfhqqBKmoZ"/>
+      <point x="329" y="672" type="curve" smooth="yes" identifier="eBpNZGHweX"/>
+      <point x="329" y="680" type="line" smooth="yes" identifier="4yWhPPW2j1"/>
+      <point x="329" y="693" identifier="k7cxOoHsgM"/>
+      <point x="321" y="703" identifier="4UJs08N4FV"/>
+      <point x="300" y="703" type="curve" smooth="yes" identifier="K4NDpWUmBe"/>
+      <point x="279" y="703" identifier="6pkneb64Va"/>
+      <point x="271" y="693" identifier="lMj0ZfAt2t"/>
+      <point x="271" y="680" type="curve" smooth="yes" identifier="28OF40QFZ7"/>
+      <point x="271" y="672" type="line" smooth="yes" identifier="HIwGnPwrfr"/>
+      <point x="271" y="659" identifier="EE8hz5Buom"/>
+      <point x="279" y="649" identifier="Iyu7rhrC6y"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

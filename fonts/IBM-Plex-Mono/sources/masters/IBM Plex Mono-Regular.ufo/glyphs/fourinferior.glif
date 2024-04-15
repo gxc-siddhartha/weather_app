@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourinferior" format="2">
+  <advance width="600"/>
+  <unicode hex="2084"/>
+  <outline>
+    <contour>
+      <point x="396" y="0" type="line" identifier="RkbQLtrvdW"/>
+      <point x="396" y="72" type="line" identifier="YJIp8ZKI39"/>
+      <point x="452" y="72" type="line" identifier="83WjSFncbG"/>
+      <point x="452" y="120" type="line" identifier="Py3SalHd5b"/>
+      <point x="396" y="120" type="line" identifier="aB4uAPXkCo"/>
+      <point x="396" y="369" type="line" identifier="AmG4d8yl6C"/>
+      <point x="311" y="369" type="line" identifier="kY3A3efESr"/>
+      <point x="147" y="124" type="line" identifier="XCfG7oU5lL"/>
+      <point x="147" y="72" type="line" identifier="25CyiMjB5M"/>
+      <point x="336" y="72" type="line" identifier="pay5Vb0iTu"/>
+      <point x="336" y="0" type="line" identifier="bgmQoKdxTu"/>
+    </contour>
+    <contour>
+      <point x="336" y="120" type="line" identifier="CTrG492ilL"/>
+      <point x="202" y="120" type="line" identifier="BvSpgDNXeh"/>
+      <point x="332" y="312" type="line" identifier="VOoeivcqZv"/>
+      <point x="336" y="312" type="line" identifier="Q8AxknW7AT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

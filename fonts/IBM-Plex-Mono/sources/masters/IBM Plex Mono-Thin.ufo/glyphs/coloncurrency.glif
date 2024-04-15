@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="coloncurrency" format="2">
+  <advance width="600"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="296" y="-113" type="line" identifier="edJMDv5jfo"/>
+      <point x="315" y="-113" type="line" identifier="mJnSGQmE4q"/>
+      <point x="328" y="-12" type="line" identifier="4gDypkEPDa"/>
+      <point x="419" y="-12" identifier="djqBMBC50d"/>
+      <point x="488" y="43" identifier="aPfv5R8syu"/>
+      <point x="518" y="129" type="curve" identifier="daYF3wihMa"/>
+      <point x="499" y="136" type="line" identifier="tWRI5GjFhS"/>
+      <point x="473" y="59" identifier="JUnyVj03DQ"/>
+      <point x="413" y="10" identifier="b8p1PKL7R4"/>
+      <point x="330" y="8" type="curve" identifier="qwzjB6yKv7"/>
+      <point x="413" y="669" type="line" identifier="t1nXp4yClL"/>
+      <point x="453" y="647" identifier="Fgrq2CMxHW"/>
+      <point x="483" y="610" identifier="cbNsnSCRWH"/>
+      <point x="499" y="562" type="curve" identifier="UMOBb5Gss9"/>
+      <point x="518" y="569" type="line" identifier="WkEZPm22JF"/>
+      <point x="499" y="624" identifier="rz4KcbSxoV"/>
+      <point x="463" y="667" identifier="PzEATrK6hI"/>
+      <point x="416" y="690" type="curve" identifier="kh9ceBkvCa"/>
+      <point x="431" y="811" type="line" identifier="sUEJbH7G02"/>
+      <point x="412" y="811" type="line" identifier="VAxKApx8n3"/>
+      <point x="398" y="698" type="line" identifier="eOtmmczCAN"/>
+      <point x="376" y="706" identifier="07bwnLlTcO"/>
+      <point x="351" y="710" identifier="YopNkTJoA1"/>
+      <point x="325" y="710" type="curve" smooth="yes" identifier="0wX00Ipdla"/>
+      <point x="313" y="710" identifier="vNMSWEidbE"/>
+      <point x="301" y="709" identifier="52LQkh9GL5"/>
+      <point x="289" y="708" type="curve" identifier="nnSONRf3oD"/>
+      <point x="302" y="811" type="line" identifier="ikXyUOUXgw"/>
+      <point x="283" y="811" type="line" identifier="jql49TuYre"/>
+      <point x="270" y="705" type="line" identifier="WYCyUSrmFq"/>
+      <point x="147" y="682" identifier="paXr39aobH"/>
+      <point x="79" y="573" identifier="ixzciIvWEv"/>
+      <point x="79" y="349" type="curve" smooth="yes" identifier="B9Rur0eOyh"/>
+      <point x="79" y="183" identifier="06u8n171oN"/>
+      <point x="116" y="81" identifier="l1sJPl91fX"/>
+      <point x="185" y="29" type="curve" identifier="BBvR8prEFB"/>
+      <point x="167" y="-113" type="line" identifier="fFiu0nHRs9"/>
+      <point x="186" y="-113" type="line" identifier="ok5ewFL2p8"/>
+      <point x="202" y="17" type="line" identifier="dpfDlybYgT"/>
+      <point x="233" y="0" identifier="lf97jQ8dXm"/>
+      <point x="268" y="-10" identifier="8gR3lHT0T4"/>
+      <point x="309" y="-12" type="curve" identifier="LZbkdAZDWN"/>
+    </contour>
+    <contour>
+      <point x="325" y="690" type="curve" smooth="yes" identifier="9PyIZmNVFT"/>
+      <point x="351" y="690" identifier="MKgvxF7Mj6"/>
+      <point x="374" y="686" identifier="o2eCg13MQ2"/>
+      <point x="395" y="677" type="curve" identifier="O4vjO5vOQd"/>
+      <point x="311" y="8" type="line" identifier="SIBVqGVCu6"/>
+      <point x="270" y="10" identifier="KKRKV84jxD"/>
+      <point x="235" y="21" identifier="vrEseSfKbY"/>
+      <point x="205" y="41" type="curve" identifier="BQZfUUNUPU"/>
+      <point x="286" y="687" type="line" identifier="vldL9j46dh"/>
+      <point x="299" y="689" identifier="XHfMzM1KYD"/>
+      <point x="312" y="690" identifier="raxxqKsfw7"/>
+    </contour>
+    <contour>
+      <point x="103" y="317" type="curve" smooth="yes" identifier="OUfWLG5flG"/>
+      <point x="103" y="381" type="line" smooth="yes" identifier="K4YQFPo5KX"/>
+      <point x="103" y="557" identifier="rT03PnZWp4"/>
+      <point x="160" y="658" identifier="9SKL7JEFiA"/>
+      <point x="267" y="684" type="curve" identifier="0cXYnh5fec"/>
+      <point x="188" y="54" type="line" identifier="foT2Fncmqi"/>
+      <point x="132" y="103" identifier="WAPZSK4S03"/>
+      <point x="103" y="191" identifier="LBZUIiBbwv"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

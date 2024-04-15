@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="600"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="312" y="0" type="line" identifier="0YKnp5aG93"/>
+      <point x="544" y="349" type="line" identifier="Lqt8wBRenu"/>
+      <point x="312" y="698" type="line" identifier="KRKFyczR8Q"/>
+      <point x="290" y="698" type="line" identifier="tNDSRWfz5e"/>
+      <point x="59" y="349" type="line" identifier="yuYBSJKXTd"/>
+      <point x="290" y="0" type="line" identifier="9jNaTqbqLF"/>
+    </contour>
+    <contour>
+      <point x="299" y="20" type="line" identifier="KuMsOuwiZY"/>
+      <point x="82" y="349" type="line" identifier="PQq6tsr75K"/>
+      <point x="299" y="678" type="line" identifier="fBHoUEQnAK"/>
+      <point x="303" y="678" type="line" identifier="3RJKUrlNMy"/>
+      <point x="521" y="349" type="line" identifier="rkx6bZvXul"/>
+      <point x="303" y="20" type="line" identifier="5QRUQMZJmY"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

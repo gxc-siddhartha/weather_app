@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookcomb.case" format="2">
+  <anchor x="0.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-120" y="857" type="line" identifier="kIKdQxhluK"/>
+      <point x="2" y="857" type="line" identifier="DV8Lt9XcfD"/>
+      <point x="-39" y="765" type="line" identifier="5YIdPlzbUD"/>
+      <point x="36" y="730" type="line" identifier="bNwuvz9B0R"/>
+      <point x="64" y="764" type="line" smooth="yes" identifier="uihZko8i4M"/>
+      <point x="97" y="804" identifier="8yvh5ttmXd"/>
+      <point x="121" y="851" identifier="nc7Y0FnRdi"/>
+      <point x="121" y="890" type="curve" smooth="yes" identifier="CNGjx9Bpjs"/>
+      <point x="121" y="929" identifier="P6monhSDFI"/>
+      <point x="98" y="963" identifier="S38Jg83e1u"/>
+      <point x="23" y="963" type="curve" smooth="yes" identifier="3lIakSheEu"/>
+      <point x="-120" y="963" type="line" identifier="mCtaBrE11i"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

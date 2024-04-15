@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="600"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line" identifier="WeGUeNiPfX"/>
+      <point x="130" y="167" type="line" identifier="iDb71N7Y2V"/>
+      <point x="352" y="167" type="line" smooth="yes" identifier="SwUWSSBdkf"/>
+      <point x="466" y="167" identifier="53iXT0loRT"/>
+      <point x="526" y="241" identifier="AHRFLnjIj0"/>
+      <point x="526" y="355" type="curve" smooth="yes" identifier="lexzCp41uF"/>
+      <point x="526" y="469" identifier="UsOPEeyLaN"/>
+      <point x="466" y="543" identifier="gJ8Ff3qv82"/>
+      <point x="352" y="543" type="curve" smooth="yes" identifier="FdzIgx3I7g"/>
+      <point x="130" y="543" type="line" identifier="FZFgIfcBJF"/>
+      <point x="130" y="698" type="line" identifier="SOc0PCDAlY"/>
+      <point x="108" y="698" type="line" identifier="80XB6QFjyg"/>
+      <point x="108" y="0" type="line" identifier="V4xb3cX49w"/>
+    </contour>
+    <contour>
+      <point x="130" y="523" type="line" identifier="MJa8c0Y6dT"/>
+      <point x="352" y="523" type="line" smooth="yes" identifier="iZe2cBJyq5"/>
+      <point x="455" y="523" identifier="n1Fz4aojNA"/>
+      <point x="502" y="452" identifier="MGE76x9BAE"/>
+      <point x="502" y="376" type="curve" smooth="yes" identifier="W0AXojFxXi"/>
+      <point x="502" y="334" type="line" smooth="yes" identifier="2v4ne1B1OX"/>
+      <point x="502" y="258" identifier="ymkF1shLkf"/>
+      <point x="455" y="187" identifier="Ajj5bMNVfe"/>
+      <point x="352" y="187" type="curve" smooth="yes" identifier="PsLlQphjlp"/>
+      <point x="130" y="187" type="line" identifier="ysETn1DFCa"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

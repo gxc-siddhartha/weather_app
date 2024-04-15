@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="293" y="755" type="line" identifier="Ec7ojrvoRi"/>
+      <point x="345" y="779" type="line" identifier="8rVrr86a1N"/>
+      <point x="260" y="949" type="line" identifier="ejwJd31iAN"/>
+      <point x="187" y="914" type="line" identifier="4TaKaMBLDQ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="600"/>
+  <unicode hex="00AF"/>
+  <anchor x="300.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="164" y="616" type="line" identifier="Un4W8xzkvB"/>
+      <point x="469" y="616" type="line" identifier="N5CgF8MY2n"/>
+      <point x="486" y="718" type="line" identifier="yHbO6Nv5Hx"/>
+      <point x="181" y="718" type="line" identifier="EmwYOy5Chm"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

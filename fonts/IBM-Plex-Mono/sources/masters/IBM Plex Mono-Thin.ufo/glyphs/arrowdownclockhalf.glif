@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowdownclockhalf" format="2">
+  <advance width="600"/>
+  <unicode hex="21B7"/>
+  <outline>
+    <contour>
+      <point x="409" y="41" type="line" identifier="W3RnV5vUV1"/>
+      <point x="596" y="228" type="line" identifier="d6YN4YcgPG"/>
+      <point x="581" y="243" type="line" identifier="42busVLBfS"/>
+      <point x="470" y="132" type="line" identifier="8idIWmNHE8"/>
+      <point x="420" y="78" type="line" identifier="v6LL4olfsV"/>
+      <point x="418" y="79" type="line" identifier="EF1vsYakvE"/>
+      <point x="419" y="187" type="line" identifier="BrXVlhaHfh"/>
+      <point x="419" y="413" type="line" smooth="yes" identifier="NgLqQdvJgv"/>
+      <point x="419" y="549" identifier="57L6bDp07r"/>
+      <point x="334" y="633" identifier="WZhH8zhUVm"/>
+      <point x="215" y="633" type="curve" smooth="yes" identifier="aD29obs20N"/>
+      <point x="95" y="633" identifier="LEUGSVkc6C"/>
+      <point x="11" y="549" identifier="sEJnOiviEZ"/>
+      <point x="11" y="425" type="curve" identifier="EY2JL3No7u"/>
+      <point x="31" y="425" type="line" identifier="CoMfoPEVmj"/>
+      <point x="31" y="545" identifier="gSvm88uYFa"/>
+      <point x="112" y="613" identifier="0GQccC3vWm"/>
+      <point x="215" y="613" type="curve" smooth="yes" identifier="05ZA1RdlvO"/>
+      <point x="317" y="613" identifier="aClqSV1o5M"/>
+      <point x="399" y="548" identifier="i1QxWvYR8q"/>
+      <point x="399" y="413" type="curve" smooth="yes" identifier="Oe6iTxlJp6"/>
+      <point x="399" y="187" type="line" identifier="XwmehR5Kls"/>
+      <point x="400" y="79" type="line" identifier="4H3eQ2FRTq"/>
+      <point x="398" y="78" type="line" identifier="aFGn9Qn0Xf"/>
+      <point x="348" y="132" type="line" identifier="qDJu21mikD"/>
+      <point x="237" y="243" type="line" identifier="pbEYlmwB0a"/>
+      <point x="222" y="228" type="line" identifier="Mv6AFEZ8V5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

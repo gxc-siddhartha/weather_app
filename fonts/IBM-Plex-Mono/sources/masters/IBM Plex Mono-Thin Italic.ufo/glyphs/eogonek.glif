@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eogonek" format="2">
+  <advance width="600"/>
+  <unicode hex="0119"/>
+  <anchor x="271.0" y="0.0" name="bottom"/>
+  <anchor x="341.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="302" y="-202" type="curve" smooth="yes" identifier="U2fmvahHtY"/>
+      <point x="334" y="-202" identifier="g6gGaB0jPG"/>
+      <point x="360" y="-188" identifier="nhi7Z6g2SA"/>
+      <point x="375" y="-170" type="curve" identifier="dI1S37NBlB"/>
+      <point x="362" y="-159" type="line" identifier="r0uGnEUw95"/>
+      <point x="350" y="-171" identifier="M0tE7EJtiy"/>
+      <point x="332" y="-184" identifier="slr4OUpEx2"/>
+      <point x="302" y="-184" type="curve" smooth="yes" identifier="4SMOF2fIem"/>
+      <point x="268" y="-184" identifier="ilp7f0Zq9w"/>
+      <point x="245" y="-170" identifier="YJ8hWnT9ep"/>
+      <point x="245" y="-136" type="curve" smooth="yes" identifier="rE7XS0s9iA"/>
+      <point x="245" y="-79" identifier="QbZtZCutHA"/>
+      <point x="285" y="-45" identifier="V1FQCHPJlu"/>
+      <point x="381" y="16" type="curve" smooth="yes" identifier="20WLuN9kCC"/>
+      <point x="422" y="42" identifier="0C1E20jNrr"/>
+      <point x="457" y="82" identifier="vYCL0Y5xJ3"/>
+      <point x="488" y="141" type="curve" identifier="J2nzPpEKxn"/>
+      <point x="470" y="150" type="line" identifier="FKcOEkvxgF"/>
+      <point x="426" y="61" identifier="FjFntHFFuc"/>
+      <point x="362" y="7" identifier="HiTevlDMIH"/>
+      <point x="273" y="7" type="curve" smooth="yes" identifier="m0h8cqeQsJ"/>
+      <point x="149" y="7" identifier="QdN63fRuzI"/>
+      <point x="103" y="95" identifier="LwWpyjXRJo"/>
+      <point x="103" y="205" type="curve" smooth="yes" identifier="wS3J5s5VYi"/>
+      <point x="103" y="206" identifier="kgS471fEM1"/>
+      <point x="103" y="220" identifier="BGlFFVEL32"/>
+      <point x="104" y="231" type="curve" identifier="wiRWAms8E7"/>
+      <point x="461" y="238" identifier="S9tKncUuBB"/>
+      <point x="505" y="338" identifier="8Bs3LFrHW4"/>
+      <point x="505" y="405" type="curve" smooth="yes" identifier="ipU5flY7NA"/>
+      <point x="505" y="481" identifier="ZjFlMGaQBf"/>
+      <point x="444" y="528" identifier="tM9ndlF7jd"/>
+      <point x="343" y="528" type="curve" smooth="yes" identifier="siMOn4Xt0Z"/>
+      <point x="189" y="528" identifier="seqrZ3KrNE"/>
+      <point x="83" y="382" identifier="N6RcsMLOcp"/>
+      <point x="83" y="212" type="curve" smooth="yes" identifier="ztrCzaT6SO"/>
+      <point x="83" y="66" identifier="2IhtCet5te"/>
+      <point x="149" y="-12" identifier="L3KsUlA0ig"/>
+      <point x="273" y="-12" type="curve" smooth="yes" identifier="nags963Ju8"/>
+      <point x="292" y="-12" identifier="UlkNatJu5G"/>
+      <point x="311" y="-9" identifier="38XIgNCX39"/>
+      <point x="329" y="-3" type="curve" identifier="jdANWHN6uK"/>
+      <point x="330" y="-5" type="line" identifier="hJ2VsKqbn7"/>
+      <point x="237" y="-57" identifier="CMkfbTIRgg"/>
+      <point x="224" y="-103" identifier="V3ITGHIHXk"/>
+      <point x="224" y="-138" type="curve" smooth="yes" identifier="x3MKJJkyfT"/>
+      <point x="224" y="-182" identifier="3WEQgMkQfi"/>
+      <point x="258" y="-202" identifier="AnC026aPVl"/>
+    </contour>
+    <contour>
+      <point x="341" y="509" type="curve" smooth="yes" identifier="CcstEj9ayF"/>
+      <point x="443" y="509" identifier="U6ByecxwEY"/>
+      <point x="483" y="464" identifier="fKpOl3bCns"/>
+      <point x="483" y="405" type="curve" smooth="yes" identifier="jbpy1zuDCF"/>
+      <point x="483" y="332" identifier="vlV6VOB1ry"/>
+      <point x="422" y="255" identifier="ROfu9gUX6d"/>
+      <point x="106" y="250" type="curve" identifier="kmFtJxqctR"/>
+      <point x="111" y="281" type="line" smooth="yes" identifier="aTGkuXd53r"/>
+      <point x="134" y="425" identifier="7XzR2Kl93G"/>
+      <point x="233" y="509" identifier="rXZAhpNOur"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

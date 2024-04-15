@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="600"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="46" y="0" type="line" identifier="GuzEZ1QVrh"/>
+      <point x="554" y="0" type="line" identifier="mxh8cPCWCb"/>
+      <point x="554" y="75" type="line" identifier="SqKHdRhX5x"/>
+      <point x="356" y="698" type="line" identifier="sV40LkhipC"/>
+      <point x="245" y="698" type="line" identifier="M4LdSbW7f9"/>
+      <point x="46" y="75" type="line" identifier="NMVhE19WTb"/>
+    </contour>
+    <contour>
+      <point x="467" y="73" type="line" identifier="f5CPPiN23u"/>
+      <point x="131" y="73" type="line" identifier="DysVLMIxPB"/>
+      <point x="295" y="610" type="line" identifier="EPO4CiJbbD"/>
+      <point x="304" y="610" type="line" identifier="EmbCDgLB1X"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

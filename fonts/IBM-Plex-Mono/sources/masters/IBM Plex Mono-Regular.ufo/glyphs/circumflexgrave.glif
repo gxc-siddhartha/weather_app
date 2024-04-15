@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgrave" format="2">
+  <anchor x="0.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-154" y="712" type="line" identifier="wsqgXAujNM"/>
+      <point x="-105" y="735" type="line" identifier="W40BA5yOpk"/>
+      <point x="-190" y="905" type="line" identifier="u26rsnj71B"/>
+      <point x="-260" y="871" type="line" identifier="NMxMHcS6kL"/>
+    </contour>
+    <contour>
+      <point x="-50" y="755" type="line" identifier="Pe7ZtQWHlr"/>
+      <point x="-160" y="611" type="line" identifier="uJc2UgDpLn"/>
+      <point x="-118" y="581" type="line" identifier="bU5KERL3Ru"/>
+      <point x="-1" y="700" type="line" identifier="nLSjcqF9S5"/>
+      <point x="116" y="581" type="line" identifier="XaGcDk2h89"/>
+      <point x="160" y="611" type="line" identifier="SAMVprA7IU"/>
+      <point x="50" y="755" type="line" identifier="TRNEd7a3rF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="600"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="287" y="-200" type="line" identifier="YoDqhYzdIA"/>
+      <point x="388" y="409" type="line" identifier="7E3cS6dBAy"/>
+      <point x="565" y="409" type="line" identifier="UIzt2XkIj9"/>
+      <point x="583" y="516" type="line" identifier="34Q8BARrjN"/>
+      <point x="406" y="516" type="line" identifier="KLORNsR6Vq"/>
+      <point x="443" y="740" type="line" identifier="FBdjFkBIHl"/>
+      <point x="319" y="740" type="line" identifier="EKbV39lTdT"/>
+      <point x="282" y="516" type="line" identifier="LQozb4KnTt"/>
+      <point x="106" y="516" type="line" identifier="lcSARvIyoF"/>
+      <point x="88" y="409" type="line" identifier="Kz3EI1ngua"/>
+      <point x="264" y="409" type="line" identifier="SuZfcclyfw"/>
+      <point x="163" y="-200" type="line" identifier="3mFDnq91z6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

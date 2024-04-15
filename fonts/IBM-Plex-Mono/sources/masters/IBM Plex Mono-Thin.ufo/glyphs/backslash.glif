@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="600"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="495" y="-138" type="line" identifier="Xrj5u9wYtS"/>
+      <point x="124" y="760" type="line" identifier="y0XMXeATuO"/>
+      <point x="105" y="760" type="line" identifier="rgsE1PX5tH"/>
+      <point x="476" y="-138" type="line" identifier="K5iXHMgGHm"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

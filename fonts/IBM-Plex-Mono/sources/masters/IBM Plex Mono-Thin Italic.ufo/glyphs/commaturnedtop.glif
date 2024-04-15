@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedtop" format="2">
+  <advance width="600"/>
+  <unicode hex="02BB"/>
+  <anchor x="300.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="301" y="593" type="line" identifier="ZiATIEERlf"/>
+      <point x="326" y="593" type="line" identifier="Q9lhMcDjHp"/>
+      <point x="409" y="769" type="line" identifier="RwsSGs6byK"/>
+      <point x="391" y="769" type="line" identifier="iRRhOYQOVv"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

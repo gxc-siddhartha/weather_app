@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavydnrightbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="250F"/>
+  <outline>
+    <contour>
+      <point x="232" y="-350" type="line" identifier="TQm3Df0CEG"/>
+      <point x="368" y="-350" type="line" identifier="l90tv4cnXx"/>
+      <point x="368" y="232" type="line" identifier="COozzUGUJd"/>
+      <point x="634" y="232" type="line" identifier="XD2EFaAKn0"/>
+      <point x="634" y="368" type="line" identifier="7Uzoginoj0"/>
+      <point x="232" y="368" type="line" identifier="F5ZPpo5vTT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

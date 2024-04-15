@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronslovak" format="2">
+  <advance width="600"/>
+  <unicode hex="02BC"/>
+  <anchor x="137.0" y="740.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="300" y="740" type="line" identifier="ExWDjCnI2H"/>
+      <point x="143" y="740" type="line" identifier="h8FH2KBdnu"/>
+      <point x="137" y="525" type="line" identifier="HVfgQ8zqPD"/>
+      <point x="234" y="525" type="line" identifier="TVpjfhI2Dw"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

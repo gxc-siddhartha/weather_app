@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni044C" format="2">
+  <advance width="600"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="279" y="-12" type="curve" smooth="yes" identifier="0D4U6Ztexv"/>
+      <point x="417" y="-12" identifier="nzVBA86ePP"/>
+      <point x="493" y="89" identifier="gvFEpIz4Bu"/>
+      <point x="493" y="199" type="curve" smooth="yes" identifier="jwhxsm0S2M"/>
+      <point x="493" y="293" identifier="YiiVaK343g"/>
+      <point x="427" y="335" identifier="jwSbtCHv2w"/>
+      <point x="329" y="335" type="curve" smooth="yes" identifier="YowDgyIuaH"/>
+      <point x="240" y="335" identifier="2893ckZhaj"/>
+      <point x="187" y="294" identifier="ola5juLyVG"/>
+      <point x="154" y="239" type="curve" identifier="EdjEEpxquT"/>
+      <point x="152" y="239" type="line" identifier="LgGmcNRsw0"/>
+      <point x="198" y="516" type="line" identifier="6nLRUIFjJe"/>
+      <point x="177" y="516" type="line" identifier="wWH5d0j0JY"/>
+      <point x="121" y="180" type="line" smooth="yes" identifier="hST9qeA2uN"/>
+      <point x="120" y="172" identifier="7Srz07zS5s"/>
+      <point x="116" y="144" identifier="eoIPSXgoCO"/>
+      <point x="116" y="122" type="curve" smooth="yes" identifier="q82wPNawF8"/>
+      <point x="116" y="41" identifier="LRqAuxyDiY"/>
+      <point x="170" y="-12" identifier="BYzv0nMfLx"/>
+    </contour>
+    <contour>
+      <point x="281" y="7" type="curve" smooth="yes" identifier="MvY27Hj99u"/>
+      <point x="179" y="7" identifier="dKg3cfR3Zm"/>
+      <point x="137" y="53" identifier="SjcyOEp2EA"/>
+      <point x="137" y="119" type="curve" smooth="yes" identifier="S8DHmilP4K"/>
+      <point x="137" y="134" identifier="myVfe8IcEP"/>
+      <point x="139" y="152" identifier="ll8ezLczL0"/>
+      <point x="141" y="163" type="curve" smooth="yes" identifier="engzZquBNV"/>
+      <point x="155" y="252" identifier="e6MPd1G9Kn"/>
+      <point x="224" y="316" identifier="jfxHh844xV"/>
+      <point x="327" y="316" type="curve" smooth="yes" identifier="osbBW8rqzN"/>
+      <point x="426" y="316" identifier="lOxNDgJM6G"/>
+      <point x="473" y="273" identifier="L41iMOCobo"/>
+      <point x="473" y="199" type="curve" smooth="yes" identifier="fFPV6zSPfP"/>
+      <point x="473" y="187" identifier="xHH1nAH8oU"/>
+      <point x="471" y="170" identifier="u3KM24GkSh"/>
+      <point x="469" y="159" type="curve" smooth="yes" identifier="68WW3X6uqr"/>
+      <point x="456" y="79" identifier="axWUd7qa9g"/>
+      <point x="388" y="7" identifier="mTDvoJZNM8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

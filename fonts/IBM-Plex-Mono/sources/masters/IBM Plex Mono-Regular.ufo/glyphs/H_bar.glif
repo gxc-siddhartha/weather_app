@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="600"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="436" y="0" type="line" identifier="AOffbosKSW"/>
+      <point x="520" y="0" type="line" identifier="PKZcTE3O5H"/>
+      <point x="520" y="518" type="line" identifier="EwMnPuF45L"/>
+      <point x="590" y="518" type="line" identifier="kF7h55Et40"/>
+      <point x="590" y="582" type="line" identifier="pgRnkz8hc1"/>
+      <point x="520" y="582" type="line" identifier="pAO74Nq8ak"/>
+      <point x="520" y="698" type="line" identifier="usyXzZOciG"/>
+      <point x="436" y="698" type="line" identifier="4H1MLDkmS9"/>
+      <point x="436" y="582" type="line" identifier="5Vs1lOR6PA"/>
+      <point x="164" y="582" type="line" identifier="wpGVTrPs5g"/>
+      <point x="164" y="698" type="line" identifier="jySYUoO8zV"/>
+      <point x="80" y="698" type="line" identifier="9u0ArfyGTk"/>
+      <point x="80" y="582" type="line" identifier="RzI47ug4dJ"/>
+      <point x="10" y="582" type="line" identifier="Clyq78rWSg"/>
+      <point x="10" y="518" type="line" identifier="Mqy6SlZfxz"/>
+      <point x="80" y="518" type="line" identifier="fLXoPFDWtP"/>
+      <point x="80" y="0" type="line" identifier="AMXM0YyvQn"/>
+      <point x="164" y="0" type="line" identifier="6oBIX5KpHZ"/>
+      <point x="164" y="317" type="line" identifier="JOkVAu8hQB"/>
+      <point x="436" y="317" type="line" identifier="dzgrTkhvcn"/>
+    </contour>
+    <contour>
+      <point x="164" y="390" type="line" identifier="HuKgLXxghO"/>
+      <point x="164" y="518" type="line" identifier="eXbxNgEiUe"/>
+      <point x="436" y="518" type="line" identifier="Tcjw1pMeix"/>
+      <point x="436" y="390" type="line" identifier="Czh9mIKf9H"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

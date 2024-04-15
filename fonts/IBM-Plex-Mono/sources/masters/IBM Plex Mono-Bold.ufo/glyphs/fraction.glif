@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="600"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="323" y="398" type="line" identifier="F6oOn6xKw6"/>
+      <point x="426" y="398" type="line" identifier="FxcEs6EQ9m"/>
+      <point x="599" y="698" type="line" identifier="aIC5NJy1mS"/>
+      <point x="496" y="698" type="line" identifier="UtcRJuOFnG"/>
+    </contour>
+    <contour>
+      <point x="1" y="0" type="line" identifier="ycl59bJDnG"/>
+      <point x="104" y="0" type="line" identifier="WT2sZKJfip"/>
+      <point x="277" y="300" type="line" identifier="1Q7sbtr8oX"/>
+      <point x="174" y="300" type="line" identifier="S0uKwmcWDt"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

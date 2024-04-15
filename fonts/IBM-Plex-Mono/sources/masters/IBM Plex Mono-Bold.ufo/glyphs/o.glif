@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="600"/>
+  <unicode hex="006F"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="300" y="-12" type="curve" smooth="yes" identifier="NKI4mreSMw"/>
+      <point x="461" y="-12" identifier="kZ1fz36yut"/>
+      <point x="559" y="91" identifier="ERzBL3WxiP"/>
+      <point x="559" y="258" type="curve" smooth="yes" identifier="Cs5df5Bs27"/>
+      <point x="559" y="425" identifier="1YWzAuogHK"/>
+      <point x="461" y="528" identifier="GZRQGVTXsx"/>
+      <point x="300" y="528" type="curve" smooth="yes" identifier="Y2L0Bnl3Zw"/>
+      <point x="139" y="528" identifier="fiQNzvRcgy"/>
+      <point x="41" y="425" identifier="c2Bu7VCtD2"/>
+      <point x="41" y="258" type="curve" smooth="yes" identifier="Tu8GEXWKDF"/>
+      <point x="41" y="91" identifier="JmiyZqbKdX"/>
+      <point x="139" y="-12" identifier="kBGOOuVRO4"/>
+    </contour>
+    <contour>
+      <point x="300" y="98" type="curve" smooth="yes" identifier="iCFHQ14xKB"/>
+      <point x="234" y="98" identifier="mKjZsEDabF"/>
+      <point x="194" y="141" identifier="ePheldnLuj"/>
+      <point x="194" y="217" type="curve" smooth="yes" identifier="eiWAKi4bW6"/>
+      <point x="194" y="299" type="line" identifier="HCDExjTbru"/>
+      <point x="194" y="375" identifier="3JoPCt40fL"/>
+      <point x="234" y="418" identifier="u9o8dWh8rz"/>
+      <point x="300" y="418" type="curve" smooth="yes" identifier="1MmE7ecCCC"/>
+      <point x="366" y="418" identifier="GzVr0vxSZe"/>
+      <point x="406" y="375" identifier="ovXhx4Dtxq"/>
+      <point x="406" y="299" type="curve" smooth="yes" identifier="RPsmX7gGPU"/>
+      <point x="406" y="217" type="line" smooth="yes" identifier="3tje91INWV"/>
+      <point x="406" y="141" identifier="Wx96WTUqpW"/>
+      <point x="366" y="98" identifier="jNLRlrbHIa"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

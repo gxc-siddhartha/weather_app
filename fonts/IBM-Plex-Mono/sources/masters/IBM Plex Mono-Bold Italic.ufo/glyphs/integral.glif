@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral" format="2">
+  <advance width="600"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="154" y="-212" type="curve" smooth="yes" identifier="F7E2akxsFB"/>
+      <point x="238" y="-212" identifier="HhDXMlfea6"/>
+      <point x="296" y="-165" identifier="6ADip627Df"/>
+      <point x="315" y="-53" type="curve" smooth="yes" identifier="nQjeMsj6aS"/>
+      <point x="429" y="626" type="line" identifier="UoIPh070ek"/>
+      <point x="615" y="626" type="line" identifier="sMnA696Jva"/>
+      <point x="634" y="740" type="line" identifier="tUAhuZCuSF"/>
+      <point x="456" y="740" type="line" smooth="yes" identifier="URJvFZory1"/>
+      <point x="349" y="740" identifier="RvKT7d0LoT"/>
+      <point x="292" y="680" identifier="Rh7snIAXGq"/>
+      <point x="278" y="594" type="curve" smooth="yes" identifier="CbgLBEqOso"/>
+      <point x="164" y="-92" type="line" identifier="30Cv1tLSCv"/>
+      <point x="152" y="-97" type="line" identifier="A6rcnQa0Ba"/>
+      <point x="49" y="39" type="line" identifier="bWH1X74bhC"/>
+      <point x="-51" y="-30" type="line" identifier="RWABx7MOJE"/>
+      <point x="-10" y="-89" type="line" smooth="yes" identifier="YOZSymsdo6"/>
+      <point x="42" y="-163" identifier="B6rKa82FfB"/>
+      <point x="81" y="-212" identifier="F30fCyZNrS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

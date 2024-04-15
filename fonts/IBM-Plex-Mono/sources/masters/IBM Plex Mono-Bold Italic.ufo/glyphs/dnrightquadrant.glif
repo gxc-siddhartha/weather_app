@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dnrightquadrant" format="2">
+  <advance width="600"/>
+  <unicode hex="2597"/>
+  <outline>
+    <contour>
+      <point x="300" y="-350" type="line" identifier="WZGMqRDKzN"/>
+      <point x="600" y="-350" type="line" identifier="9riv3uKWvI"/>
+      <point x="600" y="300" type="line" identifier="N3eSMrKQB8"/>
+      <point x="300" y="300" type="line" identifier="gacYxfkMv6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

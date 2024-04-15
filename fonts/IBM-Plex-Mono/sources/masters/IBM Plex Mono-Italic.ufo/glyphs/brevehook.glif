@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevehook" format="2">
+  <anchor x="0.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="11" y="585" type="curve" smooth="yes" identifier="BA039qomh7"/>
+      <point x="115" y="585" identifier="iXQZBgUQbl"/>
+      <point x="169" y="661" identifier="CK4TiMWtU1"/>
+      <point x="200" y="724" type="curve" identifier="y4eP4x5szh"/>
+      <point x="151" y="747" type="line" identifier="bp6mDKtgS3"/>
+      <point x="125" y="715" type="line" smooth="yes" identifier="sCuCe8foSr"/>
+      <point x="83" y="663" identifier="5z8ri3phcD"/>
+      <point x="55" y="647" identifier="G8ejeDjMBF"/>
+      <point x="16" y="647" type="curve" smooth="yes" identifier="9WKelDy9uD"/>
+      <point x="-27" y="647" identifier="jqNY2oDxDf"/>
+      <point x="-46" y="667" identifier="IUB1pWTvUp"/>
+      <point x="-70" y="715" type="curve" smooth="yes" identifier="L4P2AnpJnf"/>
+      <point x="-86" y="747" type="line" identifier="IFx7yWzgnU"/>
+      <point x="-131" y="724" type="line" identifier="68DMNC9a20"/>
+      <point x="-122" y="666" identifier="yD0y5OWe6v"/>
+      <point x="-97" y="585" identifier="KcWN5FYPSc"/>
+    </contour>
+    <contour>
+      <point x="-51" y="829" type="line" identifier="AJTWZF9cJI"/>
+      <point x="52" y="829" type="line" identifier="7F8bNPFHUG"/>
+      <point x="-19" y="729" type="line" identifier="CErNyTWicX"/>
+      <point x="23" y="702" type="line" identifier="QimnMFlz2w"/>
+      <point x="79" y="765" type="line" smooth="yes" identifier="L6bPwnq9gY"/>
+      <point x="102" y="791" identifier="vqTO4BxDCy"/>
+      <point x="116" y="815" identifier="uSa9g2rs9u"/>
+      <point x="116" y="839" type="curve" smooth="yes" identifier="JzoCQjCFqk"/>
+      <point x="116" y="867" identifier="XACNLLhcfO"/>
+      <point x="96" y="890" identifier="GxgaLjeYjo"/>
+      <point x="49" y="890" type="curve" smooth="yes" identifier="DpC9DeWXID"/>
+      <point x="-40" y="890" type="line" identifier="VL3V4f30c8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

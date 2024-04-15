@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftfiveeighthsblock" format="2">
+  <advance width="600"/>
+  <unicode hex="258B"/>
+  <outline>
+    <contour>
+      <point x="0" y="-350" type="line" identifier="E5rCUUc8Po"/>
+      <point x="375" y="-350" type="line" identifier="xE0XsGszOY"/>
+      <point x="375" y="950" type="line" identifier="rMrzwVfsvx"/>
+      <point x="0" y="950" type="line" identifier="KJNY2u9lF3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

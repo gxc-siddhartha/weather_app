@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkmark" format="2">
+  <advance width="600"/>
+  <unicode hex="2713"/>
+  <outline>
+    <contour>
+      <point x="167" y="0" type="line" identifier="7vvefw7RC2"/>
+      <point x="331" y="0" type="line" identifier="Q2ZCdKSCto"/>
+      <point x="600" y="686" type="line" identifier="E3A3QWr16o"/>
+      <point x="471" y="730" type="line" identifier="Wxn5kT3ED7"/>
+      <point x="315" y="338" type="line" identifier="fUW06ruMv1"/>
+      <point x="256" y="161" type="line" identifier="JgxZ0l3An3"/>
+      <point x="248" y="161" type="line" identifier="SCHlary1yL"/>
+      <point x="196" y="337" type="line" identifier="hr3Tn1xt8U"/>
+      <point x="135" y="523" type="line" identifier="vjRPh9AYP8"/>
+      <point x="0" y="486" type="line" identifier="T362IQQx3X"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

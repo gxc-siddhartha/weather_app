@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightupheavyleftdnlightbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2544"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line" identifier="dBHjdptQfv"/>
+      <point x="232" y="266" type="line" identifier="BzJ0X8DslW"/>
+      <point x="232" y="232" type="line" identifier="Scyvm2l7jd"/>
+      <point x="266" y="232" type="line" identifier="VrumZZn7yu"/>
+      <point x="266" y="-350" type="line" identifier="G4TutM1byH"/>
+      <point x="334" y="-350" type="line" identifier="FptiDF1FNh"/>
+      <point x="334" y="232" type="line" identifier="wzi2ec7c53"/>
+      <point x="634" y="232" type="line" identifier="3cPtxuPSaV"/>
+      <point x="634" y="368" type="line" identifier="IfbzBsEw3C"/>
+      <point x="368" y="368" type="line" identifier="uDHKeYOL8Y"/>
+      <point x="368" y="950" type="line" identifier="7h2Sl6mY2w"/>
+      <point x="232" y="950" type="line" identifier="C2yBXXzpNL"/>
+      <point x="232" y="334" type="line" identifier="T2VoPhCW29"/>
+      <point x="-34" y="334" type="line" identifier="gWe5WE5Y1H"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

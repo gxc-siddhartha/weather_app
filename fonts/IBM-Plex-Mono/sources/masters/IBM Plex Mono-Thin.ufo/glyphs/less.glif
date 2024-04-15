@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="600"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="515" y="38" type="line" identifier="9e4cHxrX2c"/>
+      <point x="515" y="61" type="line" identifier="ob9MISwXyv"/>
+      <point x="108" y="304" type="line" identifier="mFtLR078cY"/>
+      <point x="108" y="306" type="line" identifier="8iA8WQCoh0"/>
+      <point x="515" y="549" type="line" identifier="5eXNT9crL8"/>
+      <point x="515" y="572" type="line" identifier="TvhBUgNjca"/>
+      <point x="85" y="314" type="line" identifier="MyFx7EsGF6"/>
+      <point x="85" y="296" type="line" identifier="SD9XHwaiOF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

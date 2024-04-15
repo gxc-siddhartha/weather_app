@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="righthalfblock" format="2">
+  <advance width="600"/>
+  <unicode hex="2590"/>
+  <outline>
+    <contour>
+      <point x="300" y="-350" type="line" identifier="m8J9u2Lfj6"/>
+      <point x="600" y="-350" type="line" identifier="E1uqT32EEf"/>
+      <point x="600" y="950" type="line" identifier="rWIQNT2kYJ"/>
+      <point x="300" y="950" type="line" identifier="VHmMIxAGab"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

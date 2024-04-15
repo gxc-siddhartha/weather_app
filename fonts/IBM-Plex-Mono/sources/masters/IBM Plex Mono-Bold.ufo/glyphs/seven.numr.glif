@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.numr" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="230" y="363" type="line" identifier="61puyDIVFB"/>
+      <point x="325" y="363" type="line" identifier="BAuigPGhbK"/>
+      <point x="433" y="625" type="line" identifier="fjffZqKpcQ"/>
+      <point x="433" y="698" type="line" identifier="rSo5yBfX5w"/>
+      <point x="172" y="698" type="line" identifier="pQmc6b3NPH"/>
+      <point x="172" y="565" type="line" identifier="usvPzHfOLS"/>
+      <point x="245" y="565" type="line" identifier="szxm9cKUfW"/>
+      <point x="245" y="632" type="line" identifier="2ktxD5IjoK"/>
+      <point x="344" y="632" type="line" identifier="JSac16Xz8u"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

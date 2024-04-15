@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni044F.loclBGR" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line" identifier="byho33Kfy2"/>
+      <point x="173" y="0" type="line" identifier="V4scQ8Gm3F"/>
+      <point x="280" y="199" type="line" identifier="FAUAgXzIGu"/>
+      <point x="410" y="199" type="line" identifier="exZtgeHaWQ"/>
+      <point x="410" y="0" type="line" identifier="7Do94sBrIb"/>
+      <point x="490" y="0" type="line" identifier="R81jtope70"/>
+      <point x="490" y="516" type="line" identifier="dvWTYcblBB"/>
+      <point x="258" y="516" type="line" smooth="yes" identifier="sGzyl5jtdw"/>
+      <point x="153" y="516" identifier="C6QK2KClW7"/>
+      <point x="89" y="455" identifier="3jQ91wDJfv"/>
+      <point x="89" y="357" type="curve" smooth="yes" identifier="cDPGXjbuVK"/>
+      <point x="89" y="261" identifier="INGrP1D4f9"/>
+      <point x="147" y="211" identifier="p1aENhCL2j"/>
+      <point x="226" y="207" type="curve" identifier="4Ii0ifLuZC"/>
+      <point x="226" y="203" type="line" identifier="GsZ64Dr4tM"/>
+      <point x="200" y="199" identifier="epkQjfwoXj"/>
+      <point x="182" y="183" identifier="z7G1rHNHkN"/>
+      <point x="166" y="153" type="curve" smooth="yes" identifier="p7mQK0U8VC"/>
+    </contour>
+    <contour>
+      <point x="270" y="265" type="line" smooth="yes" identifier="D7crjmDhmj"/>
+      <point x="210" y="265" identifier="D1yElRw3IB"/>
+      <point x="174" y="288" identifier="h4juPes8FN"/>
+      <point x="174" y="341" type="curve" smooth="yes" identifier="przu2lRMgU"/>
+      <point x="174" y="372" type="line" smooth="yes" identifier="jwna5Qjpds"/>
+      <point x="174" y="425" identifier="xNPMRvlg4b"/>
+      <point x="210" y="448" identifier="ApaZE2IHus"/>
+      <point x="270" y="448" type="curve" smooth="yes" identifier="dAZ7Yh2lNl"/>
+      <point x="410" y="448" type="line" identifier="20lXHj4WgI"/>
+      <point x="410" y="265" type="line" identifier="LZdBJBEvyZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

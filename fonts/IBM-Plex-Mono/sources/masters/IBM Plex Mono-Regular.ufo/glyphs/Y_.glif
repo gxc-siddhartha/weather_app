@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="600"/>
+  <unicode hex="0059"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="698.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="342" y="0" type="line" identifier="cfFfRpB6tz"/>
+      <point x="342" y="274" type="line" identifier="6FGsicmE0E"/>
+      <point x="583" y="698" type="line" identifier="2ehZQ4ylX7"/>
+      <point x="489" y="698" type="line" identifier="nK7wv6cYCf"/>
+      <point x="389" y="516" type="line" identifier="SJPdWDbYrB"/>
+      <point x="302" y="357" type="line" identifier="2HyPAUik5G"/>
+      <point x="298" y="357" type="line" identifier="a5rwac8881"/>
+      <point x="213" y="516" type="line" identifier="lrRWB4s585"/>
+      <point x="113" y="698" type="line" identifier="lOoXqihAlG"/>
+      <point x="17" y="698" type="line" identifier="zhwXFcjj1O"/>
+      <point x="258" y="274" type="line" identifier="ofLKD6wCOJ"/>
+      <point x="258" y="0" type="line" identifier="4eE6o0lFaK"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

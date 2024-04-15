@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="600"/>
+  <unicode hex="02DB"/>
+  <anchor x="300.0" y="0.0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="228" y="-207" type="curve" smooth="yes" identifier="Y2OnlALfhM"/>
+      <point x="278" y="-207" identifier="8z6G9nTleG"/>
+      <point x="308" y="-188" identifier="ACgxa6aZDV"/>
+      <point x="321" y="-166" type="curve" identifier="LM0tAOOtJz"/>
+      <point x="281" y="-125" type="line" identifier="ROYmH38oY4"/>
+      <point x="268" y="-141" identifier="z1mLO9gV0w"/>
+      <point x="251" y="-151" identifier="RrAq6W3ERU"/>
+      <point x="229" y="-151" type="curve" smooth="yes" identifier="H7NK5xYOeU"/>
+      <point x="208" y="-151" identifier="ZS1jIIJcCv"/>
+      <point x="187" y="-142" identifier="rkSq2WRX2L"/>
+      <point x="187" y="-114" type="curve" smooth="yes" identifier="CowF1KqgKr"/>
+      <point x="187" y="-94" identifier="2xJd5kfDCU"/>
+      <point x="197" y="-65" identifier="vhUzXrrHLz"/>
+      <point x="300" y="0" type="curve" identifier="CTNFCmGINJ"/>
+      <point x="293" y="19" type="line" identifier="iwyXcGtxUS"/>
+      <point x="228" y="12" type="line" identifier="Mztmh0vJlX"/>
+      <point x="234" y="-3" type="line" identifier="BTlWbKcP5F"/>
+      <point x="159" y="-39" identifier="p1qqO2mauI"/>
+      <point x="119" y="-79" identifier="kistona2Cn"/>
+      <point x="119" y="-127" type="curve" smooth="yes" identifier="LXRX2Y3dny"/>
+      <point x="119" y="-180" identifier="p80qsa8Eyc"/>
+      <point x="167" y="-207" identifier="nos4Ae7Kq8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

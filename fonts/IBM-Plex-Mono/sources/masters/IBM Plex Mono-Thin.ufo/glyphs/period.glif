@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="600"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="300" y="-5" type="curve" smooth="yes" identifier="3vLBUbvNms"/>
+      <point x="322" y="-5" identifier="BnJxLT4DnJ"/>
+      <point x="334" y="5" identifier="wreDJ2Ckkk"/>
+      <point x="334" y="22" type="curve" smooth="yes" identifier="iftGSFkDkE"/>
+      <point x="334" y="30" type="line" smooth="yes" identifier="zMl1HCsLjW"/>
+      <point x="334" y="47" identifier="bgKCM6xrdb"/>
+      <point x="322" y="57" identifier="y7ArorgH4c"/>
+      <point x="300" y="57" type="curve" smooth="yes" identifier="AvG3ynbfVU"/>
+      <point x="278" y="57" identifier="0pyBFLbgN0"/>
+      <point x="266" y="47" identifier="VLlnUClnJ2"/>
+      <point x="266" y="30" type="curve" smooth="yes" identifier="bU4fLLJq9m"/>
+      <point x="266" y="22" type="line" smooth="yes" identifier="5vSUeUV7Nb"/>
+      <point x="266" y="5" identifier="WMcKxaoveW"/>
+      <point x="278" y="-5" identifier="pIpW0fLzsh"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

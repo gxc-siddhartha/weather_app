@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="464" y="916" type="line" identifier="lYuxzPpmfP"/>
+      <point x="350" y="976" type="line" identifier="pZ6zeZ4ohS"/>
+      <point x="235" y="786" type="line" identifier="ZSfzzWfhaC"/>
+      <point x="321" y="740" type="line" identifier="ySuNxVdbL1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

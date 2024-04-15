@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vertlightleftheavybxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2525"/>
+  <outline>
+    <contour>
+      <point x="-34" y="232" type="line" identifier="Xfescqc8B3"/>
+      <point x="266" y="232" type="line" identifier="dt4qDpTfnC"/>
+      <point x="266" y="-350" type="line" identifier="tUg1J8WsW7"/>
+      <point x="334" y="-350" type="line" identifier="FBDlsqWF5c"/>
+      <point x="334" y="950" type="line" identifier="i5gyHU9cUB"/>
+      <point x="266" y="950" type="line" identifier="0WuYdRViEd"/>
+      <point x="266" y="368" type="line" identifier="OHkDyRmDZB"/>
+      <point x="-34" y="368" type="line" identifier="QDz3p9kYlj"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexhook" format="2">
+  <anchor x="0.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="91" y="842" type="line" identifier="dXoBJ5iUSU"/>
+      <point x="203" y="842" type="line" identifier="jZu41UQGsT"/>
+      <point x="151" y="746" type="line" identifier="DoX60xY3Mk"/>
+      <point x="222" y="712" type="line" identifier="9U8xyfM06M"/>
+      <point x="276" y="778" type="line" smooth="yes" identifier="ntt8GfqQny"/>
+      <point x="304" y="813" identifier="hczRAUduRN"/>
+      <point x="325" y="843" identifier="yO0TbxnNds"/>
+      <point x="325" y="884" type="curve" smooth="yes" identifier="ZsPOgHZzA8"/>
+      <point x="325" y="917" identifier="gWOJ0OoXi3"/>
+      <point x="299" y="943" identifier="xrpvQdkBpc"/>
+      <point x="244" y="943" type="curve" smooth="yes" identifier="9gsFYMtSNU"/>
+      <point x="107" y="943" type="line" identifier="Bne3moIDRa"/>
+    </contour>
+    <contour>
+      <point x="-7" y="771" type="line" identifier="6Q6CE5j9tm"/>
+      <point x="-174" y="625" type="line" identifier="gJnAjHH2pD"/>
+      <point x="-111" y="562" type="line" identifier="BCGiaqiI4b"/>
+      <point x="25" y="666" type="line" identifier="wICydOG1TD"/>
+      <point x="134" y="562" type="line" identifier="nFdSrm9tNs"/>
+      <point x="208" y="625" type="line" identifier="7KzuEPzMaC"/>
+      <point x="87" y="771" type="line" identifier="3PFkruixQv"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

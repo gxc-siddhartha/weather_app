@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="600"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="200" y="43" type="line" identifier="w6DKQLF2tp"/>
+      <point x="414" y="203" type="line" identifier="vW5Hqt6vKZ"/>
+      <point x="436" y="333" type="line" identifier="UkD9L1O6rG"/>
+      <point x="266" y="501" type="line" identifier="zmREprVZzC"/>
+      <point x="207" y="414" type="line" identifier="Ha99OE6h9R"/>
+      <point x="313" y="276" type="line" identifier="Pnal7fQvbc"/>
+      <point x="161" y="135" type="line" identifier="iPntWitZdC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

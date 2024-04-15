@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="600"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="358" y="400" type="line" identifier="l8l44vTSNg"/>
+      <point x="418" y="760" type="line" identifier="I7dHLCLaSn"/>
+      <point x="350" y="760" type="line" identifier="fCpgfTAGef"/>
+      <point x="290" y="400" type="line" identifier="bk26qdIiZD"/>
+    </contour>
+    <contour>
+      <point x="268" y="-138" type="line" identifier="nVSLh7XEyR"/>
+      <point x="328" y="222" type="line" identifier="isV2jV6qUx"/>
+      <point x="260" y="222" type="line" identifier="gp6k9olWCA"/>
+      <point x="200" y="-138" type="line" identifier="wz7lJLlAhM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

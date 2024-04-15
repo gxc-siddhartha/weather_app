@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexbreve.case" format="2">
+  <anchor x="0.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-17" y="916" type="line" identifier="Y9uNgH2cYy"/>
+      <point x="-171" y="799" type="line" identifier="qqUG2R4OJG"/>
+      <point x="-115" y="735" type="line" identifier="3J9NgxTRYG"/>
+      <point x="23" y="818" type="line" identifier="K0aDQNjHaV"/>
+      <point x="134" y="735" type="line" identifier="phd93qk7pO"/>
+      <point x="201" y="799" type="line" identifier="VKuSNY6Ybe"/>
+      <point x="79" y="916" type="line" identifier="WrcrF40Z7U"/>
+    </contour>
+    <contour>
+      <point x="43" y="939" type="curve" smooth="yes" identifier="FHy0tbPd80"/>
+      <point x="152" y="939" identifier="QPgvAutm7X"/>
+      <point x="211" y="1012" identifier="nh4ZPuy58U"/>
+      <point x="245" y="1073" type="curve" identifier="dOG1bLjSgS"/>
+      <point x="179" y="1117" type="line" identifier="bqYpd2LexT"/>
+      <point x="154" y="1091" type="line" smooth="yes" identifier="W20GDD0iJ8"/>
+      <point x="113" y="1048" identifier="KWBTJF2HUZ"/>
+      <point x="86" y="1033" identifier="XwUauDvXlG"/>
+      <point x="48" y="1033" type="curve" smooth="yes" identifier="oXriOUzxLx"/>
+      <point x="9" y="1033" identifier="zTmTiVsA2r"/>
+      <point x="-17" y="1047" identifier="ikBDxjcIKF"/>
+      <point x="-44" y="1091" type="curve" smooth="yes" identifier="l81klkXv1C"/>
+      <point x="-60" y="1117" type="line" identifier="iBxewhrFsZ"/>
+      <point x="-129" y="1076" type="line" identifier="ybY1B6vA4p"/>
+      <point x="-107" y="1013" identifier="l9xRYYcfDT"/>
+      <point x="-69" y="939" identifier="KarehoVndA"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

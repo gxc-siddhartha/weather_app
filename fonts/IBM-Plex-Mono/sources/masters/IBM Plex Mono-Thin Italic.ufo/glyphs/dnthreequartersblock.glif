@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dnthreequartersblock" format="2">
+  <advance width="600"/>
+  <unicode hex="2586"/>
+  <outline>
+    <contour>
+      <point x="0" y="-350" type="line" identifier="4cvPzHK0Uc"/>
+      <point x="600" y="-350" type="line" identifier="tuNS3nbAxq"/>
+      <point x="600" y="625" type="line" identifier="fW7FX5Pr72"/>
+      <point x="0" y="625" type="line" identifier="zK4xnJ3eV0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

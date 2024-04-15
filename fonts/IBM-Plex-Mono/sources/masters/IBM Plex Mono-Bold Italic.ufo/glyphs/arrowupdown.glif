@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowupdown" format="2">
+  <advance width="600"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="300" y="-12" type="line" identifier="AKlzAzr9kM"/>
+      <point x="539" y="227" type="line" identifier="nKAlKFFFQV"/>
+      <point x="459" y="307" type="line" identifier="ejcYDa0ppw"/>
+      <point x="399" y="247" type="line" identifier="M2vKwLQRhF"/>
+      <point x="361" y="203" type="line" identifier="vvZlSXjf0t"/>
+      <point x="357" y="204" type="line" identifier="vTQe8whp3G"/>
+      <point x="361" y="284" type="line" identifier="O5vRPcNrMt"/>
+      <point x="361" y="414" type="line" identifier="qFonsNMsgG"/>
+      <point x="357" y="494" type="line" identifier="Xaxh2Zvyfz"/>
+      <point x="361" y="495" type="line" identifier="ltQ4PRkxAo"/>
+      <point x="399" y="451" type="line" identifier="RAkQDU00Er"/>
+      <point x="459" y="391" type="line" identifier="SOaWZAII0Y"/>
+      <point x="539" y="471" type="line" identifier="cxMnR34Bfp"/>
+      <point x="300" y="710" type="line" identifier="1viYPttBe4"/>
+      <point x="61" y="471" type="line" identifier="OgJmk1nK1b"/>
+      <point x="141" y="391" type="line" identifier="FuUNZfuz1K"/>
+      <point x="201" y="451" type="line" identifier="TYtwmUvK1H"/>
+      <point x="239" y="495" type="line" identifier="mRJMrJU12W"/>
+      <point x="243" y="494" type="line" identifier="ASM5O7Ax9R"/>
+      <point x="239" y="414" type="line" identifier="3AW8PfQlEB"/>
+      <point x="239" y="284" type="line" identifier="162Kbq2rKP"/>
+      <point x="243" y="204" type="line" identifier="fvTkTku2p1"/>
+      <point x="239" y="203" type="line" identifier="yzecGoiiOn"/>
+      <point x="201" y="247" type="line" identifier="0tDwhQio70"/>
+      <point x="141" y="307" type="line" identifier="iCknQ7XTB9"/>
+      <point x="61" y="227" type="line" identifier="SkKVYzGUEY"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

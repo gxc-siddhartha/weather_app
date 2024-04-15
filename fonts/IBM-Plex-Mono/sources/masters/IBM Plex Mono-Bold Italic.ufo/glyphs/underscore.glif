@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="600"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="463" y="-191" type="line" identifier="h7lmSd781L"/>
+      <point x="483" y="-72" type="line" identifier="uqi8O7LIsY"/>
+      <point x="8" y="-72" type="line" identifier="9Gyww2aFFE"/>
+      <point x="-12" y="-191" type="line" identifier="9iGl5uk1SC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

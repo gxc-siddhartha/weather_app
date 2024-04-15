@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="291" y="935" type="line" identifier="jSyOtr8Z7S"/>
+      <point x="158" y="794" type="line" identifier="SsSxYIMZbB"/>
+      <point x="197" y="761" type="line" identifier="R3iOR47jCO"/>
+      <point x="334" y="878" type="line" identifier="wRbpmTnpML"/>
+      <point x="430" y="761" type="line" identifier="dJLEu4qN30"/>
+      <point x="476" y="788" type="line" identifier="NMasHkXxyj"/>
+      <point x="389" y="935" type="line" identifier="zcklPg8B9o"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

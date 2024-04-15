@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="600"/>
+  <unicode hex="0050"/>
+  <anchor x="115.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="698.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line" identifier="CYkuuBJhR4"/>
+      <point x="130" y="322" type="line" identifier="hlzet6kZTd"/>
+      <point x="352" y="322" type="line" smooth="yes" identifier="O3aIItBv0C"/>
+      <point x="466" y="322" identifier="lA1dmpH1Tn"/>
+      <point x="526" y="396" identifier="5bxbF6KV5j"/>
+      <point x="526" y="510" type="curve" smooth="yes" identifier="raYFjiupST"/>
+      <point x="526" y="624" identifier="FJO07x5AvG"/>
+      <point x="466" y="698" identifier="6WMRxAkbWB"/>
+      <point x="352" y="698" type="curve" smooth="yes" identifier="7JyRBJM7l0"/>
+      <point x="108" y="698" type="line" identifier="SpL8pIBLEO"/>
+      <point x="108" y="0" type="line" identifier="pBbbOtzfyG"/>
+    </contour>
+    <contour>
+      <point x="130" y="678" type="line" identifier="lDSHSwaqJj"/>
+      <point x="352" y="678" type="line" smooth="yes" identifier="Xt7vgIBHJH"/>
+      <point x="455" y="678" identifier="qbYr2SpOdR"/>
+      <point x="502" y="607" identifier="PA1o81LN3r"/>
+      <point x="502" y="531" type="curve" smooth="yes" identifier="jWj4O2BxfQ"/>
+      <point x="502" y="489" type="line" smooth="yes" identifier="oX4kIfZtpp"/>
+      <point x="502" y="413" identifier="RJBSNPf4rD"/>
+      <point x="455" y="342" identifier="qSNwpHorRo"/>
+      <point x="352" y="342" type="curve" smooth="yes" identifier="lkEuJ8d1E4"/>
+      <point x="130" y="342" type="line" identifier="8B0u3IZgkU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

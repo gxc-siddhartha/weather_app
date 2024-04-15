@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="0" y="-172" type="curve" smooth="yes" identifier="f5gnYjhlyR"/>
+      <point x="41" y="-172" identifier="0SDguNDeI3"/>
+      <point x="57" y="-152" identifier="Et0pZes7W9"/>
+      <point x="57" y="-126" type="curve" smooth="yes" identifier="8ENCbVmbbW"/>
+      <point x="57" y="-112" type="line" smooth="yes" identifier="KKfxiObaVl"/>
+      <point x="57" y="-86" identifier="xyXaMlvMdP"/>
+      <point x="41" y="-66" identifier="sbGgwQxJf1"/>
+      <point x="0" y="-66" type="curve" smooth="yes" identifier="FHGfmp6N6x"/>
+      <point x="-41" y="-66" identifier="idjFlJQdTh"/>
+      <point x="-57" y="-86" identifier="A5gInEh2U9"/>
+      <point x="-57" y="-112" type="curve" smooth="yes" identifier="GaUnXwp7Lx"/>
+      <point x="-57" y="-126" type="line" smooth="yes" identifier="EGruW5uxE5"/>
+      <point x="-57" y="-152" identifier="0bSiF7VBL3"/>
+      <point x="-41" y="-172" identifier="T44QqH0oIl"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

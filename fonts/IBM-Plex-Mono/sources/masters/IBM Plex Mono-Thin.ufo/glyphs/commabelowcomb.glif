@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commabelowcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-55" y="-251" type="line" identifier="xZfYILzJ4c"/>
+      <point x="-37" y="-251" type="line" identifier="dD11S9IjI6"/>
+      <point x="14" y="-68" type="line" identifier="ubxkZl7FgD"/>
+      <point x="-11" y="-68" type="line" identifier="ST4e8YB1Xt"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="328" y="783" type="line" identifier="mBLOAm12DL"/>
+      <point x="478" y="915" type="line" identifier="coxsvvuJ49"/>
+      <point x="465" y="927" type="line" identifier="GHDywc9t8E"/>
+      <point x="317" y="800" type="line" identifier="bacv1RJJvt"/>
+      <point x="213" y="927" type="line" identifier="H0Ti8YhiFa"/>
+      <point x="198" y="917" type="line" identifier="lSz2PmFWSW"/>
+      <point x="304" y="783" type="line" identifier="RlxRnlT8ta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

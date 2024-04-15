@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni042B" format="2">
+  <advance width="600"/>
+  <unicode hex="042B"/>
+  <anchor x="300.0" y="698.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line" identifier="Bl2OmHxvdt"/>
+      <point x="200" y="0" type="line" smooth="yes" identifier="26P5yO8Fdh"/>
+      <point x="325" y="0" identifier="wUTzbXx21E"/>
+      <point x="395" y="75" identifier="TrkqNwcKrj"/>
+      <point x="395" y="209" type="curve" smooth="yes" identifier="7k3okC3z9n"/>
+      <point x="395" y="343" identifier="toiqYmeNiw"/>
+      <point x="325" y="418" identifier="v5sMjRNBWf"/>
+      <point x="200" y="418" type="curve" smooth="yes" identifier="mzjSSUsKeX"/>
+      <point x="130" y="418" type="line" identifier="WKmAzc4Nh6"/>
+      <point x="130" y="698" type="line" identifier="XBaeEp1WsK"/>
+      <point x="48" y="698" type="line" identifier="QKiEHPfoWj"/>
+    </contour>
+    <contour>
+      <point x="130" y="73" type="line" identifier="VWGycDTRQb"/>
+      <point x="130" y="345" type="line" identifier="sOX50725TH"/>
+      <point x="200" y="345" type="line" smooth="yes" identifier="7QVibKflSF"/>
+      <point x="266" y="345" identifier="YSxoafsOg6"/>
+      <point x="308" y="310" identifier="YPIRZwFsoa"/>
+      <point x="308" y="235" type="curve" smooth="yes" identifier="0zDugRvPuO"/>
+      <point x="308" y="183" type="line" smooth="yes" identifier="KXP7JANQrM"/>
+      <point x="308" y="108" identifier="jYKHs1YUbp"/>
+      <point x="266" y="73" identifier="fKUawg48RD"/>
+      <point x="200" y="73" type="curve" smooth="yes" identifier="ny0WFC5mJx"/>
+    </contour>
+    <contour>
+      <point x="470" y="0" type="line" identifier="CRB5A3y6aQ"/>
+      <point x="552" y="0" type="line" identifier="BTFRjUXB5m"/>
+      <point x="552" y="698" type="line" identifier="TylYCzfEBB"/>
+      <point x="470" y="698" type="line" identifier="tvW4jCt37W"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
