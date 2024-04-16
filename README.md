@@ -1,8 +1,8 @@
 # Welcome to the Weather App!
 
 ## Introduction
-<!-- 
-![Weather App Header](https://raw.githubusercontent.com/gxc-siddhartha/weather_app/main/images/header.png) -->
+
+![Weather App Header](https://raw.githubusercontent.com/gxc-siddhartha/weather_app/main/images/header.png)
 
 Step into the realm of innovative weather forecasting with the "Weather App." This project beautifully blends functionality with aesthetics, offering users a fresh perspective on interacting with weather forecasts. Developed using the potent combination of the Flet framework and the OpenWeatherMap API, this application is poised to redefine your weather tracking experience.
 
