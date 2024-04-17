@@ -25,7 +25,7 @@ oneCallData['daily'] = [{}]
 oneCallData['visibility'] = ""
 
 
-API_KEY = 'ef7de04474aa0848c9a9f48a2b3d2811'
+API_KEY = 'api-key'
 
 teal = "#135d66"
 teal10 = "#17717c"
