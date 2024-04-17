@@ -12,7 +12,7 @@ At its heart, the Weather App harnesses the robust capabilities of the Flet fram
 
 **Note:** This project is built using Python version 3.12.2 within a virtual environment of Anaconda. Before diving in, ensure you have Anaconda installed.
 
-**Heads Up:** You need to create your API Key by going to the [OpenWeather Portal](https://home.openweathermap.org/users/sign_up). After signing up, make sure subscribe to the One-Call 3.0 API.
+**Heads Up:** You need to create your API Key by going to the [OpenWeather Portal](https://home.openweathermap.org/users/sign_up). After signing up, make sure to subscribe to the One-Call 3.0 API.
 
 To get started, follow these simple steps:
 
